@@ -1,6 +1,9 @@
 #### NLP TUTORIALS
 https://www.mygreatlearning.com/blog/natural-language-processing-tutorial/
 
+#### BEST NLP FREE COURSE
+https://lena-voita.github.io/nlp_course.html
+
 
 #### PROJECT
 https://geekflare.com/exam-proctoring-software/
