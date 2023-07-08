@@ -39,3 +39,6 @@ https://towardsdatascience.com/semantic-textual-similarity-with-bert-fc800656e7a
 #### BERT TUTORIALS
 1. https://datasciencetoday.net/index.php/en-us/nlp/211-paper-dissected-bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding-explained
 2. http://jalammar.github.io/illustrated-bert/
+   
+#### Transformer Archictecture
+1. https://jalammar.github.io/illustrated-transformer/
