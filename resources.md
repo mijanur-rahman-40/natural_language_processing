@@ -6,15 +6,15 @@ https://lena-voita.github.io/nlp_course.html
 
 
 #### PROJECT
-https://geekflare.com/exam-proctoring-software/
-https://ieeexplore.ieee.org/document/10128311
+1. https://geekflare.com/exam-proctoring-software/
+2. https://ieeexplore.ieee.org/document/10128311
 
 Search With This text : online examination system literature review
 
 #### NLP PROJECT
-https://www.aionlinecourse.com/blog/natural-language-processing-final-year-project-ideas-and-guidelines
-https://www.mygreatlearning.com/blog/top-nlp-projects/
-https://towardsdatascience.com/semantic-textual-similarity-with-bert-fc800656e7a3
+1. https://www.aionlinecourse.com/blog/natural-language-processing-final-year-project-ideas-and-guidelines
+2. https://www.mygreatlearning.com/blog/top-nlp-projects/
+3. https://towardsdatascience.com/semantic-textual-similarity-with-bert-fc800656e7a3
 
 #### FREELY AVAILABLE PRETRAINED MODELS
 1. Fasttext, PyTorch -> Facebook
