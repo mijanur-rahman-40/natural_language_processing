@@ -39,6 +39,7 @@ Search With This text : online examination system literature review
 #### BERT TUTORIALS
 1. https://datasciencetoday.net/index.php/en-us/nlp/211-paper-dissected-bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding-explained
 2. http://jalammar.github.io/illustrated-bert/
+3. 
    
 #### Transformer Archictecture
 1. https://jalammar.github.io/illustrated-transformer/

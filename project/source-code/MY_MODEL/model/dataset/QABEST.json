@@ -1,0 +1,1268 @@
+[
+  {
+    "question": "What is the theory of relativity?",
+    "answer": "The theory of relativity, developed by Albert Einstein, is a fundamental theory in physics that describes the relationships between space, time, and gravity. It comprises two major components: the Special Theory of Relativity, which deals with objects moving at constant speeds, and the General Theory of Relativity, which extends the principles to include gravity's influence on the fabric of spacetime.",
+    "studentAnswer": "The theory of relativity, formulated by Albert Einstein, is a significant theory in physics that explains the interconnections between space, time, and gravity.",
+    "marks": 8
+  },
+  {
+    "question": "Who wrote the play 'Romeo and Juliet'?",
+    "answer": "The play 'Romeo and Juliet' was written by William Shakespeare, a renowned English playwright and poet, in the early stages of his career.",
+    "studentAnswer": "The play 'Romeo and Juliet' was authored by William Shakespeare, a famous English playwright.",
+    "marks": 9
+  },
+  {
+    "question": "How does the process of natural selection work?",
+    "answer": "Natural selection is a key mechanism of evolution proposed by Charles Darwin. It operates on the principle that individuals with favorable traits are more likely to survive and reproduce, passing those traits to the next generation. Over time, these advantageous traits become more prevalent in the population, leading to the adaptation of species to their environments.",
+    "studentAnswer": "Natural selection, proposed by Charles Darwin, is a process in evolution where organisms with advantageous traits are more likely to survive and reproduce, leading to the transmission of those traits to future generations.",
+    "marks": 7
+  },
+  {
+    "question": "What is the chemical formula of water?",
+    "answer": "The chemical formula of water is H2O, which indicates that each water molecule is composed of two hydrogen atoms and one oxygen atom.",
+    "studentAnswer": "The chemical formula of water is H2O, representing two hydrogen atoms and one oxygen atom in a water molecule.",
+    "marks": 10
+  },
+  {
+    "question": "Who invented the electric light bulb?",
+    "answer": "The electric light bulb was invented by Thomas Edison, an American inventor and businessman, in 1879.",
+    "studentAnswer": "The electric light bulb was invented by Thomas Edison in 1879.",
+    "marks": 9
+  },
+  {
+    "question": "How do vaccines work?",
+    "answer": "Vaccines stimulate the immune system by introducing weakened or inactive parts of a pathogen. This exposure triggers the production of antibodies, which provide immunity against the actual infectious agent. When the body encounters the real pathogen in the future, it can mount a swift and effective defense to prevent illness.",
+    "studentAnswer": "Vaccines work by introducing weakened or inactive components of a pathogen, prompting the immune system to produce antibodies and develop immunity against the actual disease-causing agent.",
+    "marks": 8
+  },
+  {
+    "question": "What is the significance of the discovery of the structure of DNA?",
+    "answer": "The discovery of the structure of DNA, made by James Watson and Francis Crick in 1953, is of paramount importance in biology. It revealed that DNA has a double-helix structure, which allows for the precise replication and transmission of genetic information. This discovery laid the foundation for understanding genetics and heredity, and it has profound implications for fields like biotechnology, medicine, and forensics.",
+    "studentAnswer": "The discovery of the DNA structure by Watson and Crick in 1953 is crucial in biology. It showed that DNA has a double-helix shape, facilitating accurate replication and transmission of genetic data. This has far-reaching implications in biotechnology, medicine, and forensics.",
+    "marks": 10
+  },
+  {
+    "question": "How does the process of photosynthesis occur in plants?",
+    "answer": "Photosynthesis is a complex process that takes place in the chloroplasts of plant cells. Chlorophyll, the green pigment, captures sunlight, which is then used to convert carbon dioxide and water into glucose (sugar) and oxygen. This process provides energy for the plant and releases oxygen into the atmosphere.",
+    "studentAnswer": "Photosynthesis occurs in the chloroplasts of plant cells. Chlorophyll captures sunlight and converts carbon dioxide and water into glucose and oxygen. This process provides energy for plants and releases oxygen into the air.",
+    "marks": 9
+  },
+  {
+    "question": "Who was the first person to set foot on the summit of Mount Everest?",
+    "answer": "Sir Edmund Hillary, a New Zealand mountaineer, and Tenzing Norgay, a Sherpa guide, were the first to reach the summit of Mount Everest on May 29, 1953.",
+    "studentAnswer": "Sir Edmund Hillary and Tenzing Norgay were the first people to reach the summit of Mount Everest on May 29, 1953.",
+    "marks": 8
+  },
+  {
+    "question": "What is the process of cellular respiration?",
+    "answer": "Cellular respiration is the process by which cells convert glucose and oxygen into energy, carbon dioxide, and water. It occurs in the mitochondria of cells and is crucial for the release of energy necessary for various cellular activities.",
+    "studentAnswer": "Cellular respiration is the process where cells convert glucose and oxygen into energy, carbon dioxide, and water. It happens in the mitochondria and is essential for providing energy for cell functions.",
+    "marks": 9
+  },
+  {
+    "question": "What is the capital of France?",
+    "answer": "The capital of France is Paris, often referred to as the 'City of Light.'",
+    "studentAnswer": "The capital of France is Paris.",
+    "marks": 10
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "answer": "The Mona Lisa was painted by Leonardo da Vinci, an Italian artist and polymath.",
+    "studentAnswer": "Leonardo da Vinci painted the Mona Lisa.",
+    "marks": 9
+  },
+  {
+    "question": "What are the three primary colors?",
+    "answer": "The three primary colors are red, blue, and yellow. They are the basis for creating all other colors through mixing.",
+    "studentAnswer": "The primary colors are red, blue, and yellow.",
+    "marks": 8
+  },
+  {
+    "question": "Who wrote the famous play 'Hamlet'?",
+    "answer": "The play 'Hamlet' was written by William Shakespeare, one of the most celebrated playwrights in history.",
+    "studentAnswer": "The play 'Hamlet' was authored by William Shakespeare.",
+    "marks": 10
+  },
+  {
+    "question": "What is the formula for calculating the area of a circle?",
+    "answer": "The formula for calculating the area of a circle is A = πr^2, where 'A' is the area and 'r' is the radius of the circle.",
+    "studentAnswer": "The area of a circle can be calculated using the formula A = πr^2.",
+    "marks": 9
+  },
+  {
+    "question": "Who is known as the 'Father of Modern Physics'?",
+    "answer": "Albert Einstein is often referred to as the 'Father of Modern Physics' for his groundbreaking contributions to the field.",
+    "studentAnswer": "Albert Einstein is known as the 'Father of Modern Physics'.",
+    "marks": 8
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "answer": "The chemical symbol for gold is 'Au,' derived from the Latin word 'aurum.'",
+    "studentAnswer": "The chemical symbol for gold is 'Au'.",
+    "marks": 10
+  },
+  {
+    "question": "Who wrote the famous novel 'Pride and Prejudice'?",
+    "answer": "The novel 'Pride and Prejudice' was written by Jane Austen, a renowned English novelist.",
+    "studentAnswer": "Jane Austen authored the novel 'Pride and Prejudice'.",
+    "marks": 9
+  },
+  {
+    "question": "What is the tallest mountain in the world?",
+    "answer": "Mount Everest is the tallest mountain in the world, with its peak reaching an elevation of 8,848 meters (29,029 feet) above sea level.",
+    "studentAnswer": "Mount Everest is the tallest mountain on Earth.",
+    "marks": 10
+  },
+  {
+    "question": "Who composed the famous symphony 'Symphony No. 9'?",
+    "answer": "Ludwig van Beethoven composed the famous 'Symphony No. 9' also known as the 'Choral Symphony.'",
+    "studentAnswer": "The 'Symphony No. 9' was composed by Ludwig van Beethoven.",
+    "marks": 8
+  },
+  {
+    "question": "What is the process of mitosis?",
+    "answer": "Mitosis is a cell division process where a single cell divides into two identical daughter cells, each having the same number of chromosomes as the parent cell.",
+    "studentAnswer": "Mitosis is a cell division process resulting in two daughter cells with the same genetic material as the parent cell.",
+    "marks": 9
+  },
+  {
+    "question": "Who discovered the law of gravity?",
+    "answer": "Sir Isaac Newton discovered the law of gravity and formulated the famous theory of universal gravitation.",
+    "studentAnswer": "The law of gravity was discovered by Sir Isaac Newton.",
+    "marks": 10
+  },
+  {
+    "question": "What is the chemical formula of carbon dioxide?",
+    "answer": "The chemical formula of carbon dioxide is CO2, indicating that it is composed of one carbon atom and two oxygen atoms.",
+    "studentAnswer": "Carbon dioxide's chemical formula is CO2.",
+    "marks": 8
+  },
+  {
+    "question": "Who is the author of the book 'To Kill a Mockingbird'?",
+    "answer": "The book 'To Kill a Mockingbird' was written by Harper Lee, an American novelist.",
+    "studentAnswer": "Harper Lee is the author of 'To Kill a Mockingbird'.",
+    "marks": 9
+  },
+  {
+    "question": "What are the three states of matter?",
+    "answer": "The three states of matter are solid, liquid, and gas, depending on the arrangement and movement of particles.",
+    "studentAnswer": "The three states of matter are solid, liquid, and gas.",
+    "marks": 10
+  },
+  {
+    "question": "Who painted the ceiling of the Sistine Chapel?",
+    "answer": "The ceiling of the Sistine Chapel was painted by Michelangelo, an Italian Renaissance artist.",
+    "studentAnswer": "Michelangelo painted the ceiling of the Sistine Chapel.",
+    "marks": 9
+  },
+  {
+    "question": "What is the formula for calculating density?",
+    "answer": "The formula for calculating density is density = mass/volume, where 'mass' is the amount of matter in an object and 'volume' is the space it occupies.",
+    "studentAnswer": "Density can be calculated using the formula density = mass/volume.",
+    "marks": 8
+  },
+  {
+    "question": "Who wrote the play 'Macbeth'?",
+    "answer": "The play 'Macbeth' was written by William Shakespeare, a renowned English playwright and poet.",
+    "studentAnswer": "William Shakespeare wrote the play 'Macbeth'.",
+    "marks": 10
+  },
+  {
+    "question": "What is the chemical formula of methane?",
+    "answer": "The chemical formula of methane is CH4, indicating that it consists of one carbon atom and four hydrogen atoms.",
+    "studentAnswer": "The chemical formula of methane is CH4.",
+    "marks": 9
+  },
+  {
+    "question": "Who is the author of the novel '1984'?",
+    "answer": "The novel '1984' was written by George Orwell, a British writer and journalist.",
+    "studentAnswer": "George Orwell is the author of the novel '1984'.",
+    "marks": 10
+  },
+  {
+    "question": "What is the largest planet in our solar system?",
+    "answer": "Jupiter is the largest planet in our solar system, known for its massive size and iconic Great Red Spot.",
+    "studentAnswer": "Jupiter is the largest planet in the solar system.",
+    "marks": 9
+  },
+  {
+    "question": "Who is credited with the discovery of penicillin?",
+    "answer": "Alexander Fleming, a Scottish biologist and pharmacologist, is credited with the discovery of penicillin in 1928.",
+    "studentAnswer": "Penicillin was discovered by Alexander Fleming.",
+    "marks": 10
+  },
+  {
+    "question": "What is the chemical symbol for sodium?",
+    "answer": "The chemical symbol for sodium is 'Na,' derived from its Latin name 'natrium.'",
+    "studentAnswer": "The chemical symbol for sodium is 'Na'.",
+    "marks": 9
+  },
+  {
+    "question": "Who wrote the famous novel 'The Great Gatsby'?",
+    "answer": "The novel 'The Great Gatsby' was written by F. Scott Fitzgerald, an American novelist and short story writer.",
+    "studentAnswer": "F. Scott Fitzgerald is the author of 'The Great Gatsby'.",
+    "marks": 10
+  },
+  {
+    "question": "What is the process of evaporation?",
+    "answer": "Evaporation is the process by which a liquid changes into a gas or vapor state due to the absorption of heat energy.",
+    "studentAnswer": "Evaporation is the process of a liquid turning into a gas.",
+    "marks": 8
+  },
+  {
+    "question": "Who was the first woman to win a Nobel Prize?",
+    "answer": "Marie Curie, a Polish-French physicist and chemist, was the first woman to win a Nobel Prize in 1903 for her research on radioactivity.",
+    "studentAnswer": "Marie Curie was the first woman to win a Nobel Prize.",
+    "marks": 10
+  },
+  {
+    "question": "What is the chemical formula of sulfuric acid?",
+    "answer": "The chemical formula of sulfuric acid is H2SO4, indicating that it is composed of two hydrogen atoms, one sulfur atom, and four oxygen atoms.",
+    "studentAnswer": "The chemical formula of sulfuric acid is H2SO4.",
+    "marks": 9
+  },
+  {
+    "question": "Who wrote the famous play 'Macbeth'?",
+    "answer": "The play 'Macbeth' was written by William Shakespeare, a renowned English playwright and poet.",
+    "studentAnswer": "William Shakespeare wrote the play 'Macbeth'.",
+    "marks": 10
+  },
+  {
+    "question": "What is the process of fermentation?",
+    "answer": "Fermentation is a metabolic process in which microorganisms, such as yeast, convert sugars into alcohol and carbon dioxide in the absence of oxygen.",
+    "studentAnswer": "Fermentation is a process where microorganisms convert sugars into alcohol and carbon dioxide without oxygen.",
+    "marks": 8
+  },
+  {
+    "question": "Who is the author of the book 'The Catcher in the Rye'?",
+    "answer": "The novel 'The Catcher in the Rye' was written by J.D. Salinger, an American author.",
+    "studentAnswer": "J.D. Salinger is the author of 'The Catcher in the Rye'.",
+    "marks": 9
+  },
+  {
+    "question": "What is the chemical formula of ammonia?",
+    "answer": "The chemical formula of ammonia is NH3, indicating that it consists of one nitrogen atom and three hydrogen atoms.",
+    "studentAnswer": "The chemical formula of ammonia is NH3.",
+    "marks": 10
+  },
+  {
+    "question": "Who is known for proposing the theory of general relativity?",
+    "answer": "The theory of general relativity was proposed by Albert Einstein, a renowned physicist, in 1915.",
+    "studentAnswer": "Albert Einstein is known for proposing the theory of general relativity.",
+    "marks": 9
+  },
+  {
+    "question": "What is the formula for calculating the volume of a cube?",
+    "answer": "The formula for calculating the volume of a cube is V = s^3, where 'V' is the volume and 's' is the length of one side of the cube.",
+    "studentAnswer": "The volume of a cube can be calculated using the formula V = s^3.",
+    "marks": 10
+  },
+  {
+    "question": "Who wrote the famous poem 'The Raven'?",
+    "answer": "The poem 'The Raven' was written by Edgar Allan Poe, an American writer, and poet.",
+    "studentAnswer": "Edgar Allan Poe wrote the poem 'The Raven'.",
+    "marks": 9
+  },
+  {
+    "question": "What is the process of condensation?",
+    "answer": "Condensation is the process by which a gas or vapor turns into a liquid when it loses heat energy.",
+    "studentAnswer": "Condensation is the process of a gas turning into a liquid due to cooling.",
+    "marks": 8
+  },
+  {
+    "question": "Who was the first person to orbit the Earth in space?",
+    "answer": "Yuri Gagarin, a Soviet cosmonaut, was the first person to orbit the Earth in space on April 12, 1961.",
+    "studentAnswer": "Yuri Gagarin was the first person to orbit the Earth in space.",
+    "marks": 10
+  },
+  {
+    "question": "What is the chemical formula of carbon monoxide?",
+    "answer": "The chemical formula of carbon monoxide is CO, indicating that it consists of one carbon atom and one oxygen atom.",
+    "studentAnswer": "The chemical formula of carbon monoxide is CO.",
+    "marks": 9
+  },
+  {
+    "question": "Who painted the famous artwork 'The Starry Night'?",
+    "answer": "The artwork 'The Starry Night' was painted by Vincent van Gogh, a Dutch post-impressionist painter.",
+    "studentAnswer": "Vincent van Gogh painted 'The Starry Night'.",
+    "marks": 10
+  },
+  {
+    "question": "What is the process of sublimation?",
+    "answer": "Sublimation is the process by which a solid directly changes into a gas without passing through the liquid phase.",
+    "studentAnswer": "Sublimation is the process of a solid changing into a gas without becoming a liquid.",
+    "marks": 9
+  },
+  {
+    "question": "Who is the author of the famous novel 'To Kill a Mockingbird'?",
+    "answer": "The novel 'To Kill a Mockingbird' was written by Harper Lee, an American novelist.",
+    "studentAnswer": "Harper Lee is the author of the novel 'To Kill a Mockingbird'.",
+    "marks": 10
+  },
+  {
+    "question": "What is the chemical symbol for oxygen?",
+    "answer": "The chemical symbol for oxygen is 'O,' derived from its name in English.",
+    "studentAnswer": "The chemical symbol for oxygen is 'O'.",
+    "marks": 9
+  },
+  {
+    "question": "Who wrote the famous play 'Hamlet'?",
+    "answer": "The play 'Hamlet' was written by William Shakespeare, one of the most celebrated playwrights in history.",
+    "studentAnswer": "William Shakespeare wrote the play 'Hamlet'.",
+    "marks": 10
+  },
+  {
+    "question": "What is the process of transpiration in plants?",
+    "answer": "Transpiration is the process by which plants release water vapor from their leaves into the atmosphere.",
+    "studentAnswer": "Transpiration is when plants release water vapor from their leaves.",
+    "marks": 8
+  },
+  {
+    "question": "Who is known for formulating the laws of planetary motion?",
+    "answer": "Johannes Kepler, a German astronomer, is known for formulating the three laws of planetary motion.",
+    "studentAnswer": "Johannes Kepler formulated the laws of planetary motion.",
+    "marks": 10
+  },
+  {
+    "question": "What is the chemical formula of carbon dioxide?",
+    "answer": "The chemical formula of carbon dioxide is CO2, indicating that it consists of one carbon atom and two oxygen atoms.",
+    "studentAnswer": "The chemical formula of carbon dioxide is CO2.",
+    "marks": 9
+  },
+  {
+    "question": "Who wrote the novel 'The Lord of the Rings'?",
+    "answer": "The novel 'The Lord of the Rings' was written by J.R.R. Tolkien, a British author and philologist.",
+    "studentAnswer": "J.R.R. Tolkien wrote the novel 'The Lord of the Rings'.",
+    "marks": 10
+  },
+  {
+    "question": "What is the process of meiosis?",
+    "answer": "Meiosis is a cell division process that occurs in reproductive cells, reducing the chromosome number by half and producing genetically diverse gametes.",
+    "studentAnswer": "Meiosis is the cell division process that produces gametes with reduced chromosome number.",
+    "marks": 9
+  },
+  {
+    "question": "Who is known for discovering the laws of motion?",
+    "answer": "Sir Isaac Newton is known for discovering the three laws of motion, which are foundational principles in classical mechanics.",
+    "studentAnswer": "Sir Isaac Newton discovered the laws of motion.",
+    "marks": 10
+  },
+  {
+    "question": "What is the chemical formula of nitric acid?",
+    "answer": "The chemical formula of nitric acid is HNO3, indicating that it consists of one hydrogen atom, one nitrogen atom, and three oxygen atoms.",
+    "studentAnswer": "The chemical formula of nitric acid is HNO3.",
+    "marks": 9
+  },
+  {
+    "question": "Who wrote the famous play 'Othello'?",
+    "answer": "The play 'Othello' was written by William Shakespeare, a renowned English playwright and poet.",
+    "studentAnswer": "William Shakespeare wrote the play 'Othello'.",
+    "marks": 10
+  },
+  {
+    "question": "What is the process of erosion?",
+    "answer": "Erosion is the process of wearing away and transporting soil, rock, or sediment by natural agents such as wind, water, or ice.",
+    "studentAnswer": "Erosion is the wearing away and movement of soil or rock by natural agents like water and wind.",
+    "marks": 8
+  },
+  {
+    "question": "Who was the first woman to win a Nobel Prize?",
+    "answer": "Marie Curie, a Polish-French physicist and chemist, was the first woman to win a Nobel Prize in 1903 for her research on radioactivity.",
+    "studentAnswer": "Marie Curie was the first woman to win a Nobel Prize.",
+    "marks": 10
+  },
+  {
+    "question": "What is the chemical formula of methane?",
+    "answer": "The chemical formula of methane is CH4, indicating that it consists of one carbon atom and four hydrogen atoms.",
+    "studentAnswer": "The chemical formula of methane is CH4.",
+    "marks": 9
+  },
+  {
+    "question": "Who wrote the famous novel '1984'?",
+    "answer": "The novel '1984' was written by George Orwell, a British writer and journalist.",
+    "studentAnswer": "George Orwell is the author of the novel '1984'.",
+    "marks": 10
+  },
+  {
+    "question": "What is the process of metamorphosis in insects?",
+    "answer": "Metamorphosis is the process by which insects undergo a series of distinct life stages, such as egg, larva, pupa, and adult.",
+    "studentAnswer": "Metamorphosis is the transformation of insects through distinct stages like egg, larva, pupa, and adult.",
+    "marks": 9
+  },
+  {
+    "question": "Who is known for proposing the theory of general relativity?",
+    "answer": "The theory of general relativity was proposed by Albert Einstein, a renowned physicist, in 1915.",
+    "studentAnswer": "Albert Einstein is known for proposing the theory of general relativity.",
+    "marks": 10
+  },
+  {
+    "question": "What is the formula for calculating the volume of a cylinder?",
+    "answer": "The formula for calculating the volume of a cylinder is V = πr^2h, where 'V' is the volume, 'r' is the radius of the base, and 'h' is the height.",
+    "studentAnswer": "The volume of a cylinder can be calculated using the formula V = πr^2h.",
+    "marks": 10
+  },
+  {
+    "question": "Who wrote the famous poem 'The Road Not Taken'?",
+    "answer": "The poem 'The Road Not Taken' was written by Robert Frost, an American poet.",
+    "studentAnswer": "Robert Frost wrote the poem 'The Road Not Taken'.",
+    "marks": 9
+  },
+  {
+    "question": "What is the process of evaporation?",
+    "answer": "Evaporation is the process by which a liquid changes into a gas or vapor state due to the absorption of heat energy.",
+    "studentAnswer": "Evaporation is the process of a liquid turning into a gas.",
+    "marks": 8
+  },
+  {
+    "question": "Who was the first person to orbit the Earth in space?",
+    "answer": "Yuri Gagarin, a Soviet cosmonaut, was the first person to orbit the Earth in space on April 12, 1961.",
+    "studentAnswer": "Yuri Gagarin was the first person to orbit the Earth in space.",
+    "marks": 10
+  },
+  {
+    "question": "What is the chemical formula of carbon monoxide?",
+    "answer": "The chemical formula of carbon monoxide is CO, indicating that it consists of one carbon atom and one oxygen atom.",
+    "studentAnswer": "The chemical formula of carbon monoxide is CO.",
+    "marks": 9
+  },
+  {
+    "question": "What is the difference between a compiler and an interpreter?",
+    "answer": "A compiler is a language translator that converts the entire source code into machine code before execution, whereas an interpreter translates and executes the source code line by line.",
+    "studentAnswer": "A compiler converts the entire source code to machine code, while an interpreter executes the code line by line.",
+    "marks": 9
+  },
+  {
+    "question": "What is the purpose of an operating system?",
+    "answer": "The operating system manages computer hardware and software resources, provides user interfaces, and enables the execution of programs.",
+    "studentAnswer": "The operating system manages computer resources and enables program execution.",
+    "marks": 8
+  },
+  {
+    "question": "What is the difference between a stack and a queue?",
+    "answer": "A stack is a Last-In-First-Out (LIFO) data structure, while a queue is a First-In-First-Out (FIFO) data structure.",
+    "studentAnswer": "A stack follows LIFO, while a queue follows FIFO.",
+    "marks": 9
+  },
+  {
+    "question": "Explain the concept of Object-Oriented Programming (OOP).",
+    "answer": "Object-Oriented Programming is a programming paradigm that organizes code into objects, which are instances of classes. It promotes concepts like encapsulation, inheritance, and polymorphism.",
+    "studentAnswer": "Object-Oriented Programming organizes code into objects based on classes and emphasizes encapsulation, inheritance, and polymorphism.",
+    "marks": 10
+  },
+  {
+    "question": "What is a loop in programming?",
+    "answer": "A loop is a programming construct that repeats a set of instructions until a specified condition is met.",
+    "studentAnswer": "A loop is a programming construct that repeats instructions until a condition is satisfied.",
+    "marks": 8
+  },
+  {
+    "question": "What is the difference between dynamic typing and static typing in programming languages?",
+    "answer": "In dynamic typing, variable types are determined at runtime, while in static typing, variable types are checked at compile-time.",
+    "studentAnswer": "Dynamic typing determines variable types at runtime, while static typing checks them at compile-time.",
+    "marks": 9
+  },
+  {
+    "question": "What is recursion in programming?",
+    "answer": "Recursion is a technique where a function calls itself to solve a problem by breaking it down into smaller subproblems.",
+    "studentAnswer": "Recursion is a programming technique where a function calls itself to solve a problem by dividing it into smaller parts.",
+    "marks": 10
+  },
+  {
+    "question": "What is a database, and what are the different types of databases?",
+    "answer": "A database is an organized collection of data. Different types of databases include relational databases, NoSQL databases, and graph databases.",
+    "studentAnswer": "A database is a structured collection of data. Types of databases include relational, NoSQL, and graph databases.",
+    "marks": 9
+  },
+  {
+    "question": "What is the role of a version control system in software development?",
+    "answer": "A version control system (VCS) tracks changes to source code over time, enabling collaboration, code review, and rollbacks to previous versions.",
+    "studentAnswer": "A version control system tracks code changes over time, allowing collaboration and version rollback.",
+    "marks": 10
+  },
+  {
+    "question": "What is a pointer in programming?",
+    "answer": "A pointer is a variable that stores the memory address of another variable. It allows direct manipulation and access to memory.",
+    "studentAnswer": "A pointer is a variable that holds the memory address of another variable, enabling direct memory access.",
+    "marks": 9
+  },
+  {
+    "question": "Explain the concept of Big O notation.",
+    "answer": "Big O notation is used to describe the performance and efficiency of algorithms as input sizes grow. It represents the upper bound of an algorithm's time or space complexity.",
+    "studentAnswer": "Big O notation describes algorithm efficiency as input size increases, representing the upper time or space complexity.",
+    "marks": 8
+  },
+  {
+    "question": "What is the purpose of a constructor in object-oriented programming?",
+    "answer": "A constructor is a special method used to initialize the state of an object when it is created. It is automatically called upon object instantiation.",
+    "studentAnswer": "A constructor initializes object state when it is created and is automatically invoked during object creation.",
+    "marks": 10
+  },
+  {
+    "question": "What is the difference between an array and a linked list?",
+    "answer": "An array is a fixed-size data structure that stores elements contiguously in memory, while a linked list dynamically allocates memory for elements and uses pointers to connect them.",
+    "studentAnswer": "An array is a fixed-size data structure storing elements in contiguous memory, while a linked list dynamically allocates memory and uses pointers to connect elements.",
+    "marks": 9
+  },
+  {
+    "question": "What is an API (Application Programming Interface)?",
+    "answer": "An API is a set of rules and protocols that allows different software applications to communicate and interact with each other.",
+    "studentAnswer": "An API is a set of rules and protocols enabling communication and interaction between software applications.",
+    "marks": 8
+  },
+  {
+    "question": "Explain the concept of inheritance in object-oriented programming.",
+    "answer": "Inheritance allows a class (subclass) to inherit properties and behaviors from another class (superclass). It promotes code reuse and hierarchy.",
+    "studentAnswer": "Inheritance enables a class to inherit properties and behaviors from another class, promoting code reuse and hierarchy.",
+    "marks": 9
+  },
+  {
+    "question": "What is a deadlock in concurrent programming?",
+    "answer": "A deadlock is a situation where two or more processes are unable to proceed because each is waiting for the other to release a resource.",
+    "studentAnswer": "A deadlock occurs when multiple processes are stuck, waiting for each other to release resources.",
+    "marks": 8
+  },
+  {
+    "question": "What is a cache in computer architecture?",
+    "answer": "A cache is a smaller, faster memory storage that temporarily stores frequently accessed data to reduce access time and improve system performance.",
+    "studentAnswer": "A cache is a faster, smaller memory that temporarily stores frequently accessed data to improve system performance.",
+    "marks": 9
+  },
+  {
+    "question": "What is the role of an algorithm in computer programming?",
+    "answer": "An algorithm is a step-by-step procedure or set of rules for performing a specific task or solving a problem in a finite number of steps.",
+    "studentAnswer": "An algorithm is a step-by-step procedure or rules used to solve a specific problem or perform a task in a finite number of steps.",
+    "marks": 10
+  },
+  {
+    "question": "What is the purpose of a function in programming?",
+    "answer": "A function is a reusable block of code that performs a specific task and can be called multiple times within a program.",
+    "studentAnswer": "A function is a reusable block of code that accomplishes a specific task and can be used multiple times in a program.",
+    "marks": 9
+  },
+  {
+    "question": "What is the difference between HTTP and HTTPS?",
+    "answer": "HTTP (Hypertext Transfer Protocol) is an unsecured protocol for data communication over the internet, while HTTPS (Hypertext Transfer Protocol Secure) encrypts data for secure communication.",
+    "studentAnswer": "HTTP is an unsecured protocol for internet data transfer, while HTTPS encrypts data for secure communication.",
+    "marks": 8
+  },
+  {
+    "question": "What is the role of a firewall in network security?",
+    "answer": "A firewall is a network security system that monitors and controls incoming and outgoing network traffic based on predetermined security rules.",
+    "studentAnswer": "A firewall is a network security system that regulates incoming and outgoing network traffic using predefined security rules.",
+    "marks": 9
+  },
+  {
+    "question": "Explain the concept of virtual memory in computer systems.",
+    "answer": "Virtual memory is a memory management technique that uses disk space as an extension of RAM, allowing the execution of larger programs than physical memory can accommodate.",
+    "studentAnswer": "Virtual memory is a memory management technique using disk space as an extension of RAM, allowing the execution of larger programs.",
+    "marks": 10
+  },
+  {
+    "question": "What is the difference between synchronous and asynchronous communication in programming?",
+    "answer": "In synchronous communication, tasks are executed one after the other, waiting for each to finish. In asynchronous communication, tasks can be executed independently, and the program does not wait for them to complete.",
+    "studentAnswer": "Synchronous communication executes tasks sequentially, waiting for each to finish. Asynchronous communication allows tasks to execute independently without waiting.",
+    "marks": 9
+  },
+  {
+    "question": "What is a binary search algorithm?",
+    "answer": "A binary search algorithm is a fast search algorithm that locates a specific element in a sorted list by repeatedly dividing the search range in half.",
+    "studentAnswer": "A binary search algorithm is an efficient search technique that finds a target element in a sorted list by repeatedly dividing the search range.",
+    "marks": 8
+  },
+  {
+    "question": "Explain the concept of multi-threading in programming.",
+    "answer": "Multithreading is a technique where a program splits its tasks into multiple threads to perform concurrent execution, maximizing CPU utilization and improving performance.",
+    "studentAnswer": "Multithreading is a programming technique where a program divides tasks into multiple threads for concurrent execution, enhancing CPU usage and performance.",
+    "marks": 9
+  },
+  {
+    "question": "What is the difference between RAM and ROM?",
+    "answer": "RAM (Random Access Memory) is a volatile memory that temporarily stores data while the computer is running, while ROM (Read-Only Memory) is non-volatile memory that stores permanent data, including the system's firmware.",
+    "studentAnswer": "RAM is a volatile memory holding data during computer operation, while ROM is a non-volatile memory with permanent data, including the system's firmware.",
+    "marks": 10
+  },
+  {
+    "question": "What is the purpose of a package manager in programming?",
+    "answer": "A package manager is a tool that automates the process of installing, updating, configuring, and removing software packages, libraries, and dependencies.",
+    "studentAnswer": "A package manager automates the installation, updating, configuration, and removal of software packages, libraries, and dependencies.",
+    "marks": 9
+  },
+  {
+    "question": "Explain the concept of recursion in computer science.",
+    "answer": "Recursion is a technique where a function calls itself to solve a problem by breaking it down into smaller subproblems.",
+    "studentAnswer": "Recursion is a technique where a function calls itself to solve a problem by dividing it into smaller parts.",
+    "marks": 8
+  },
+  {
+    "question": "What is a relational database, and how does it store data?",
+    "answer": "A relational database is a type of database that stores data in tables with predefined relationships between them. It uses SQL (Structured Query Language) to interact with data.",
+    "studentAnswer": "A relational database stores data in tables with defined relationships between them and uses SQL to interact with data.",
+    "marks": 9
+  },
+  {
+    "question": "What is the role of an IDE (Integrated Development Environment) in software development?",
+    "answer": "An IDE is a software suite that provides tools, editors, and debugging features to facilitate software development and improve programmer productivity.",
+    "studentAnswer": "An IDE is a software suite with tools, editors, and debugging features to aid software development and enhance programmer productivity.",
+    "marks": 10
+  },
+  {
+    "question": "What is the difference between RAM and ROM?",
+    "answer": "RAM (Random Access Memory) is a volatile memory that temporarily stores data while the computer is running, while ROM (Read-Only Memory) is non-volatile memory that stores permanent data, including the system's firmware.",
+    "studentAnswer": "RAM is a type of memory, and ROM is a type of storage.",
+    "marks": 2
+  },
+  {
+    "question": "What is the purpose of an operating system?",
+    "answer": "The operating system manages computer hardware and software resources, provides user interfaces, and enables the execution of programs.",
+    "studentAnswer": "The operating system runs software and applications.",
+    "marks": 3
+  },
+  {
+    "question": "Explain the concept of recursion in computer science.",
+    "answer": "Recursion is a technique where a function calls itself to solve a problem by breaking it down into smaller subproblems.",
+    "studentAnswer": "Recursion is when a function calls another function.",
+    "marks": 2
+  },
+  {
+    "question": "What is a relational database, and how does it store data?",
+    "answer": "A relational database is a type of database that stores data in tables with predefined relationships between them. It uses SQL (Structured Query Language) to interact with data.",
+    "studentAnswer": "A relational database is used to store data in tables.",
+    "marks": 3
+  },
+  {
+    "question": "What is the difference between HTTP and HTTPS?",
+    "answer": "HTTP (Hypertext Transfer Protocol) is an unsecured protocol for data communication over the internet, while HTTPS (Hypertext Transfer Protocol Secure) encrypts data for secure communication.",
+    "studentAnswer": "HTTP is for secure data communication, and HTTPS is for unsecured data communication.",
+    "marks": 2
+  },
+  {
+    "question": "Explain the concept of multi-threading in programming.",
+    "answer": "Multithreading is a technique where a program splits its tasks into multiple threads to perform concurrent execution, maximizing CPU utilization and improving performance.",
+    "studentAnswer": "Multithreading is when multiple programs run simultaneously on a computer.",
+    "marks": 3
+  },
+  {
+    "question": "What is a cache in computer architecture?",
+    "answer": "A cache is a smaller, faster memory storage that temporarily stores frequently accessed data to reduce access time and improve system performance.",
+    "studentAnswer": "A cache is a form of memory used to store backups.",
+    "marks": 2
+  },
+  {
+    "question": "What is a binary search algorithm?",
+    "answer": "A binary search algorithm is a fast search algorithm that locates a specific element in a sorted list by repeatedly dividing the search range in half.",
+    "studentAnswer": "A binary search algorithm is used to search for files on a computer.",
+    "marks": 3
+  },
+  {
+    "question": "What is the purpose of a function in programming?",
+    "answer": "A function is a reusable block of code that performs a specific task and can be called multiple times within a program.",
+    "studentAnswer": "A function is a section of code used to format text in a program.",
+    "marks": 2
+  },
+  {
+    "question": "What is the difference between synchronous and asynchronous communication in programming?",
+    "answer": "In synchronous communication, tasks are executed one after the other, waiting for each to finish. In asynchronous communication, tasks can be executed independently, and the program does not wait for them to complete.",
+    "studentAnswer": "Synchronous communication is when tasks are performed at the same time, and asynchronous communication is when tasks are performed at different times.",
+    "marks": 3
+  },
+  {
+    "question": "What is an API (Application Programming Interface)?",
+    "answer": "An API is a set of rules and protocols that allows different software applications to communicate and interact with each other.",
+    "studentAnswer": "An API is a type of software used to design user interfaces.",
+    "marks": 2
+  },
+  {
+    "question": "Explain the concept of inheritance in object-oriented programming.",
+    "answer": "Inheritance allows a class (subclass) to inherit properties and behaviors from another class (superclass). It promotes code reuse and hierarchy.",
+    "studentAnswer": "Inheritance is when a class copies all the properties from another class.",
+    "marks": 3
+  },
+  {
+    "question": "What is a deadlock in concurrent programming?",
+    "answer": "A deadlock is a situation where two or more processes are unable to proceed because each is waiting for the other to release a resource.",
+    "studentAnswer": "A deadlock is a type of computer error that crashes the system.",
+    "marks": 2
+  },
+  {
+    "question": "What is a database, and what are the different types of databases?",
+    "answer": "A database is an organized collection of data. Different types of databases include relational databases, NoSQL databases, and graph databases.",
+    "studentAnswer": "A database is a collection of files stored on a computer. Types of databases include relational, cloud, and distributed databases.",
+    "marks": 3
+  },
+  {
+    "question": "What is recursion in programming?",
+    "answer": "Recursion is a technique where a function calls itself to solve a problem by breaking it down into smaller subproblems.",
+    "studentAnswer": "Recursion is a type of loop in programming.",
+    "marks": 2
+  },
+  {
+    "question": "What is the role of a constructor in object-oriented programming?",
+    "answer": "A constructor is a special method used to initialize the state of an object when it is created. It is automatically called upon object instantiation.",
+    "studentAnswer": "A constructor is a function that prints messages in the console.",
+    "marks": 3
+  },
+  {
+    "question": "What is the difference between an array and a linked list?",
+    "answer": "An array is a fixed-size data structure that stores elements contiguously in memory, while a linked list dynamically allocates memory for elements and uses pointers to connect them.",
+    "studentAnswer": "An array is a data structure used to store multiple values of the same type, and a linked list is a data structure used to store data in a sequence.",
+    "marks": 2
+  },
+  {
+    "question": "What is the purpose of a package manager in programming?",
+    "answer": "A package manager is a tool that automates the process of installing, updating, configuring, and removing software packages, libraries, and dependencies.",
+    "studentAnswer": "A package manager is a tool used to download and install games on a computer.",
+    "marks": 3
+  },
+  {
+    "question": "Explain the concept of virtual memory in computer systems.",
+    "answer": "Virtual memory is a memory management technique that uses disk space as an extension of RAM, allowing the execution of larger programs than physical memory can accommodate.",
+    "studentAnswer": "Virtual memory is a type of memory used to run virtual machines on a computer.",
+    "marks": 2
+  },
+  {
+    "question": "What is the difference between dynamic typing and static typing in programming languages?",
+    "answer": "In dynamic typing, variable types are determined at runtime, while in static typing, variable types are checked at compile-time.",
+    "studentAnswer": "Dynamic typing is when variables can change their type during runtime, while static typing is when variables have a fixed type.",
+    "marks": 3
+  },
+  {
+    "question": "What is civil engineering?",
+    "answer": "Civil engineering is a branch of engineering that deals with the design, construction, and maintenance of infrastructure projects such as buildings, bridges, roads, dams, and water supply systems.",
+    "studentAnswer": "Civil engineering involves the construction of buildings and roads.",
+    "marks": 4
+  },
+  {
+    "question": "What are the primary responsibilities of a civil engineer on a construction site?",
+    "answer": "Civil engineers are responsible for planning, designing, and supervising construction projects. They ensure the safety, quality, and compliance of the structures with regulations.",
+    "studentAnswer": "Civil engineers manage workers on the construction site.",
+    "marks": 4
+  },
+  {
+    "question": "Explain the concept of load-bearing capacity in civil engineering.",
+    "answer": "Load-bearing capacity refers to the maximum amount of load or weight that a structure can support without failure or deformation.",
+    "studentAnswer": "Load-bearing capacity is the ability of a structure to withstand earthquakes.",
+    "marks": 4
+  },
+  {
+    "question": "What are the different types of foundations used in civil engineering?",
+    "answer": "Common types of foundations include shallow foundations (such as spread footings and mat foundations) for lighter structures and deep foundations (such as piles and caissons) for heavier or larger structures.",
+    "studentAnswer": "Foundations in civil engineering are only used for tall buildings.",
+    "marks": 4
+  },
+  {
+    "question": "Explain the concept of reinforced concrete in civil engineering.",
+    "answer": "Reinforced concrete is a composite material where steel bars (rebars) are embedded within the concrete to provide additional strength and resistance against tensile forces.",
+    "studentAnswer": "Reinforced concrete is a type of concrete mixed with steel for waterproofing.",
+    "marks": 5
+  },
+  {
+    "question": "What is the purpose of a retaining wall in civil engineering?",
+    "answer": "A retaining wall is designed to support and retain soil or other materials at different elevations. It prevents erosion and provides stability to structures on uneven terrain.",
+    "studentAnswer": "A retaining wall is a decorative wall used to enhance the appearance of a landscape.",
+    "marks": 4
+  },
+  {
+    "question": "What are the major differences between a bridge and a culvert in civil engineering?",
+    "answer": "A bridge is a structure that spans a gap to allow the passage of vehicles or pedestrians, while a culvert is a tunnel-like structure that allows water to flow beneath roads or railways.",
+    "studentAnswer": "A bridge is used for water flow, and a culvert is used for vehicle passage.",
+    "marks": 4
+  },
+  {
+    "question": "Explain the concept of soil compaction in civil engineering.",
+    "answer": "Soil compaction is the process of increasing the density of soil by applying mechanical forces, reducing its permeability and increasing its load-bearing capacity.",
+    "studentAnswer": "Soil compaction is a process used to remove pollutants from the soil.",
+    "marks": 4
+  },
+  {
+    "question": "What is the purpose of a geotechnical investigation in civil engineering projects?",
+    "answer": "A geotechnical investigation assesses the soil and rock properties of a site to determine its suitability for construction and to design appropriate foundation systems.",
+    "studentAnswer": "A geotechnical investigation is performed to locate groundwater sources for a construction site.",
+    "marks": 5
+  },
+  {
+    "question": "Explain the concept of seismic design in civil engineering.",
+    "answer": "Seismic design is the process of designing structures to resist earthquake forces and ensure the safety of occupants during seismic events.",
+    "studentAnswer": "Seismic design is a process used to create decorative patterns on buildings.",
+    "marks": 4
+  },
+  {
+    "question": "What are the main factors considered in the design of a water distribution system in civil engineering?",
+    "answer": "The design of a water distribution system considers factors such as water demand, pipe materials, hydraulic analysis, and water quality to ensure efficient water supply to users.",
+    "studentAnswer": "The design of a water distribution system only considers the location of water sources.",
+    "marks": 5
+  },
+  {
+    "question": "Explain the concept of traffic engineering in civil engineering.",
+    "answer": "Traffic engineering involves the planning, design, and operation of transportation systems to ensure safe and efficient movement of vehicles and pedestrians.",
+    "studentAnswer": "Traffic engineering is a process used to design attractive road signs.",
+    "marks": 4
+  },
+  {
+    "question": "What is the purpose of conducting a topographic survey in civil engineering projects?",
+    "answer": "A topographic survey measures and maps the physical features and elevations of a piece of land, providing essential information for design and construction.",
+    "studentAnswer": "A topographic survey is used to identify historical landmarks in an area.",
+    "marks": 4
+  },
+  {
+    "question": "Who is the author of the novel 'Pride and Prejudice'?",
+    "answer": "The novel 'Pride and Prejudice' was written by Jane Austen.",
+    "studentAnswer": "The novel 'Pride and Prejudice' was authored by Jane Austen.",
+    "marks": 5
+  },
+  {
+    "question": "What is the central theme of Shakespeare's play 'Hamlet'?",
+    "answer": "The central theme of 'Hamlet' is the complexities of human nature, revenge, and the consequences of inaction.",
+    "studentAnswer": "The central theme of 'Hamlet' is about a prince seeking revenge for his father's death.",
+    "marks": 4
+  },
+  {
+    "question": "Who is the protagonist of the epic poem 'Paradise Lost'?",
+    "answer": "The protagonist of 'Paradise Lost' is Satan.",
+    "studentAnswer": "The protagonist of 'Paradise Lost' is an angel named Lucifer.",
+    "marks": 4
+  },
+  {
+    "question": "What is the famous opening line of Charles Dickens' novel 'A Tale of Two Cities'?",
+    "answer": "The famous opening line is 'It was the best of times, it was the worst of times.'",
+    "studentAnswer": "The famous opening line is 'It was the best time of all, it was the worst time of all.'",
+    "marks": 4
+  },
+  {
+    "question": "Who is the author of the poem 'The Waste Land'?",
+    "answer": "The poem 'The Waste Land' was written by T.S. Eliot.",
+    "studentAnswer": "The poem 'The Waste Land' was authored by T.S. Elliot.",
+    "marks": 5
+  },
+  {
+    "question": "In which play by Oscar Wilde would you find the character 'Lady Bracknell'?",
+    "answer": "The character 'Lady Bracknell' appears in the play 'The Importance of Being Earnest.'",
+    "studentAnswer": "The character 'Lady Bracknell' is found in the play 'The Importance of Being Sincere.'",
+    "marks": 4
+  },
+  {
+    "question": "What is the main literary device used in the poem 'Ode to a Nightingale' by John Keats?",
+    "answer": "The main literary device used is imagery, where the poet describes the nightingale and its surroundings in vivid detail.",
+    "studentAnswer": "The main literary device used is repetition, as the poet repeats phrases throughout the poem.",
+    "marks": 4
+  },
+  {
+    "question": "Who is the author of the Gothic novel 'Frankenstein'?",
+    "answer": "The novel 'Frankenstein' was written by Mary Shelley.",
+    "studentAnswer": "The novel 'Frankenstein' was authored by Mary Shelly.",
+    "marks": 5
+  },
+  {
+    "question": "What is the literary term for a humorous imitation of a serious piece of literature?",
+    "answer": "The literary term is 'parody.'",
+    "studentAnswer": "The literary term is 'satire.'",
+    "marks": 4
+  },
+  {
+    "question": "In which play by Arthur Miller would you find the character 'Willy Loman'?",
+    "answer": "The character 'Willy Loman' appears in the play 'Death of a Salesman.'",
+    "studentAnswer": "The character 'Willy Loman' is found in the play 'The Salesman's Demise.'",
+    "marks": 4
+  },
+  {
+    "question": "Who is the author of the poem 'The Raven'?",
+    "answer": "The poem 'The Raven' was written by Edgar Allan Poe.",
+    "studentAnswer": "The poem 'The Raven' was authored by Edgar Allen Poe.",
+    "marks": 5
+  },
+  {
+    "question": "What is the name of the ship in Joseph Conrad's novella 'Heart of Darkness'?",
+    "answer": "The name of the ship is 'Nellie.'",
+    "studentAnswer": "The name of the ship is 'Nautilus.'",
+    "marks": 4
+  },
+  {
+    "question": "Who is the author of the play 'Romeo and Juliet'?",
+    "answer": "The play 'Romeo and Juliet' was written by William Shakespeare.",
+    "studentAnswer": "The play 'Romeo and Juliet' was authored by William Shakespear.",
+    "marks": 5
+  },
+  {
+    "question": "In which novel by George Orwell would you find the dystopian society of 'Airstrip One'?",
+    "answer": "The dystopian society of 'Airstrip One' is featured in the novel '1984.'",
+    "studentAnswer": "The dystopian society of 'Airstrip One' is found in the novel 'Nineteen Eighty-Four.'",
+    "marks": 4
+  },
+  {
+    "question": "Who is the author of the play 'Macbeth'?",
+    "answer": "The play 'Macbeth' was written by William Shakespeare.",
+    "studentAnswer": "The play 'Macbeth' was authored by William Shakespeer.",
+    "marks": 5
+  },
+  {
+    "question": "What is the main theme of Harper Lee's novel 'To Kill a Mockingbird'?",
+    "answer": "The main theme is racial injustice and moral growth and development.",
+    "studentAnswer": "The main theme is the relationship between siblings and their adventures.",
+    "marks": 4
+  },
+  {
+    "question": "Who is the author of the poem 'Daffodils' (also known as 'I Wandered Lonely as a Cloud')?",
+    "answer": "The poem 'Daffodils' was written by William Wordsworth.",
+    "studentAnswer": "The poem 'Daffodils' was authored by William Wordsworth.",
+    "marks": 5
+  },
+  {
+    "question": "In which play by Tennessee Williams would you find the character 'Blanche DuBois'?",
+    "answer": "The character 'Blanche DuBois' appears in the play 'A Streetcar Named Desire.'",
+    "studentAnswer": "The character 'Blanche DuBois' is found in the play 'Desire on the Streetcar.'",
+    "marks": 4
+  },
+  {
+    "question": "Who is the author of the novel 'Jane Eyre'?",
+    "answer": "The novel 'Jane Eyre' was written by Charlotte Brontë.",
+    "studentAnswer": "The novel 'Jane Eyre' was authored by Charlotte Bronte.",
+    "marks": 5
+  },
+  {
+    "question": "What is the famous last line of F. Scott Fitzgerald's novel 'The Great Gatsby'?",
+    "answer": "The famous last line is 'So we beat on, boats against the current, borne back ceaselessly into the past.'",
+    "studentAnswer": "The famous last line is 'And so, we continue, moving forward into the future.'",
+    "marks": 4
+  },
+  {
+    "question": "What is the concept of 'separation of powers' in political science?",
+    "answer": "The concept of 'separation of powers' is a fundamental principle of modern democratic governance. It advocates dividing the powers of a government among different branches to prevent the concentration of authority in one entity. The three main branches are:\n\n1. Legislative Branch: Responsible for making laws and representing the people through elected representatives (e.g., Parliament or Congress).\n\n2. Executive Branch: Responsible for implementing and enforcing laws, headed by the president or prime minister.\n\n3. Judicial Branch: Responsible for interpreting laws and ensuring their constitutionality, embodied by the courts and judges.\n\nThe separation of powers serves as a system of checks and balances, where each branch can oversee and limit the actions of the others, preventing abuse of power and promoting accountability in the government.",
+    "studentAnswer": "The concept of 'separation of powers' refers to the division of a country into different regions, each with its own government and laws.",
+    "marks": 4
+  },
+  {
+    "question": "What is the 'social contract' theory in political philosophy?",
+    "answer": "The 'social contract' theory is a concept introduced by philosophers like Thomas Hobbes, John Locke, and Jean-Jacques Rousseau. It posits that individuals in a society willingly agree to form a government and obey its rules in exchange for protection, security, and the resolution of conflicts. According to this theory, the legitimacy of a government is derived from the consent of the governed. In other words, people willingly give up some of their freedoms in the state of nature to live in an organized society governed by laws and protections for their mutual benefit. This idea is central to the development of modern democratic principles.",
+    "studentAnswer": "The 'social contract' theory suggests that governments are imposed upon people by force and are not based on their consent.",
+    "marks": 4
+  },
+  {
+    "question": "What is the significance of the 'Industrial Revolution' in history?",
+    "answer": "The 'Industrial Revolution' was a period of significant economic, technological, and social transformation that began in Britain in the late 18th century and spread to other parts of the world. It marked a shift from agrarian and manual labor-based economies to industrialized, machine-driven production. Key developments during this period include the invention of steam engines, advances in textile manufacturing, and the growth of factories and urban centers.\n\nThe Industrial Revolution led to the mass production of goods, increased urbanization, and improvements in transportation and communication. It had a profound impact on society, labor practices, and living standards. While it brought about technological progress and economic growth, it also resulted in social challenges, such as poor working conditions and labor exploitation. The Industrial Revolution is considered a crucial turning point in human history, setting the stage for modern industrialized societies and shaping the world's economic and social systems.",
+    "studentAnswer": "The 'Industrial Revolution' was a political uprising that aimed to overthrow the existing government and establish workers' rights.",
+    "marks": 4
+  },
+  {
+    "question": "What is the 'Tragedy of the Commons' in environmental science?",
+    "answer": "The 'Tragedy of the Commons' is a concept in environmental science that highlights the depletion and degradation of shared resources, such as common grazing lands, fisheries, or air and water, when individuals act out of self-interest. The term was introduced by ecologist Garrett Hardin in 1968. In a scenario where multiple individuals have unrestricted access to a shared resource, each person has an incentive to maximize their personal gain, leading to overexploitation and resource depletion. The collective actions of individuals pursuing their self-interest can result in the long-term degradation of the shared resource, compromising its sustainability for future generations.\n\nAddressing the Tragedy of the Commons often requires implementing regulations, property rights, or community-based management systems to ensure sustainable use and conservation of shared resources.",
+    "studentAnswer": "The 'Tragedy of the Commons' refers to a series of unfortunate events that affect a community living near a common resource.",
+    "marks": 4
+  },
+  {
+    "question": "What is the significance of the 'Magna Carta' in history?",
+    "answer": "The 'Magna Carta,' also known as the 'Great Charter,' is a historical document signed by King John of England in 1215. It was a pivotal moment in the development of constitutional and legal rights. The Magna Carta was created in response to widespread dissatisfaction with the king's abuse of power and excessive taxation. It aimed to establish limitations on the monarch's authority and protect the rights of the nobility and free citizens.\n\nThe Magna Carta enshrined principles such as due process of law, the right to a fair trial, protection against unlawful imprisonment, and the idea that the king is subject to the law like any other citizen. Although the immediate impact of the Magna Carta was limited, it laid the foundation for the concept of constitutionalism and the idea that the ruler's power should be balanced by the rule of law and the rights of individuals. It is considered a cornerstone of modern democratic principles and has influenced the development of constitutions and legal systems around the world.",
+    "studentAnswer": "The 'Magna Carta' was a treaty signed to establish a military alliance between two ancient empires.",
+    "marks": 4
+  },
+  {
+    "question": "What is the 'Cultural Revolution' in China's history?",
+    "answer": "The 'Cultural Revolution' was a socio-political movement initiated by Chairman Mao Zedong in China from 1966 to 1976. Its goal was to strengthen the Communist Party's control over the country and eliminate perceived capitalist, traditional, and elitist influences. Mao aimed to reassert revolutionary communist ideology and remove elements that he considered bourgeois or counter-revolutionary.\n\nDuring the Cultural Revolution, young students and Red Guards were encouraged to rebel against authority figures, including teachers, intellectuals, and party officials. Schools and universities were shut down, and the focus shifted to promoting Maoist ideology through propaganda and mass rallies. Traditional cultural heritage, literature, and art were suppressed, and temples, historical sites, and artifacts were vandalized. The period was characterized by widespread political persecution, chaos, and violence.\n\nThe Cultural Revolution had severe social and economic consequences, resulting in the loss of education, cultural heritage, and millions of lives. After Mao's death in 1976, the movement was eventually brought to an end, and China underwent significant reforms under Deng Xiaoping's leadership.",
+    "studentAnswer": "The 'Cultural Revolution' was an artistic movement that promoted traditional Chinese culture and heritage.",
+    "marks": 4
+  },
+  {
+    "question": "What is the concept of 'manifest destiny' in American history?",
+    "answer": "The concept of 'manifest destiny' was an ideology that emerged in 19th-century America, particularly during the westward expansion. It promoted the belief that the United States was destined to expand its territorial boundaries across the North American continent from the Atlantic to the Pacific Ocean. The term 'manifest destiny' implied that it was America's divinely ordained mission to spread democracy, civilization, and American values from coast to coast.\n\nThe idea of manifest destiny fueled the acquisition of new territories through treaties, purchases, and military conquests. It justified the annexation of lands such as Texas, California, and Oregon, often at the expense of indigenous peoples and other nations. Supporters of manifest destiny viewed westward expansion as an opportunity for economic growth, territorial expansion, and the promotion of American ideals.\n\nHowever, the notion of manifest destiny also sparked controversy, as it justified the forced removal and displacement of Native American tribes and contributed to tensions between the North and South over the expansion of slavery.",
+    "studentAnswer": "The concept of 'manifest destiny' was a movement advocating for gender equality and women's rights in the United States.",
+    "marks": 4
+  },
+  {
+    "question": "What is the 'Cold War' in international relations?",
+    "answer": "The 'Cold War' was a geopolitical and ideological conflict that lasted from the end of World War II in 1945 to the dissolution of the Soviet Union in 1991. It was a standoff between the two superpowers of the time: the United States and the Soviet Union. Despite being called a 'war,' it never escalated into direct military confrontation between the two nuclear-armed nations.\n\nThe Cold War was characterized by intense rivalry, political tension, and the arms race between the capitalist bloc led by the United States and its NATO allies and the communist bloc led by the Soviet Union and its Warsaw Pact allies. The conflict was driven by opposing ideologies of democracy and capitalism in the West versus communism in the East.\n\nThe Cold War played out in various ways, including proxy wars, espionage, space race, and ideological propaganda. It ended with the collapse of the Soviet Union and the subsequent dissolution of the Eastern Bloc, marking the end of the communist threat and the emergence of a unipolar world with the United States as the dominant superpower.",
+    "studentAnswer": "The 'Cold War' was a period of extreme weather conditions that affected agriculture and economies worldwide.",
+    "marks": 4
+  },
+  {
+    "question": "What is the concept of 'civil disobedience' in political theory?",
+    "answer": "Civil disobedience is a form of nonviolent protest or resistance in which individuals or groups deliberately disobey certain laws, regulations, or government policies as a means of expressing their moral or political principles. This concept was popularized by Henry David Thoreau and later embraced by figures like Mahatma Gandhi and Martin Luther King Jr.\n\nThe philosophy behind civil disobedience is that individuals have a moral duty to resist unjust laws and promote social change peacefully. Participants may willingly accept the legal consequences of their actions as a form of protest against perceived injustice or oppression. Civil disobedience aims to raise awareness, challenge the status quo, and put pressure on those in power to address social issues and bring about positive change.\n\nWhile civil disobedience is nonviolent in nature, it is not a form of passive acceptance of the law. Instead, it is a conscious act of civil resistance that seeks to highlight and challenge perceived injustices in society.",
+    "studentAnswer": "Civil disobedience is a type of armed rebellion against a ruling government.",
+    "marks": 4
+  },
+  {
+    "question": "What is the concept of 'cultural relativism' in anthropology?",
+    "answer": "Cultural relativism is a principle in anthropology that emphasizes understanding and interpreting cultural practices, beliefs, and behaviors within the context of their own culture rather than judging them based on the observer's cultural norms and values. Anthropologists employ cultural relativism to avoid ethnocentrism, which is the tendency to evaluate other cultures according to one's own cultural standards.\n\nCultural relativism recognizes that different societies have diverse ways of living and understanding the world, and what may be considered acceptable or unacceptable in one culture may not hold the same meaning in another. By adopting a culturally relativistic perspective, anthropologists aim to be objective and unbiased in their studies and to respect the diversity of human experiences and practices.\n\nHowever, cultural relativism does not imply endorsing or excusing practices that violate human rights or cause harm. Anthropologists still recognize universal human rights, but they strive to understand cultural practices in their specific cultural contexts without imposing their own values or beliefs.",
+    "studentAnswer": "Cultural relativism is a theory that advocates for the preservation of cultural heritage and traditions.",
+    "marks": 4
+  },
+  {
+    "question": "What is the 'Theory of Comparative Advantage' in economics?",
+    "answer": "The 'Theory of Comparative Advantage' is a fundamental economic principle proposed by economist David Ricardo. It argues that countries should specialize in producing goods and services in which they have a lower opportunity cost (the cost of forgoing the next best alternative) and trade with other countries for products they are less efficient at producing.\n\nThe theory suggests that even if one country is more efficient than another in producing all goods, both countries can still benefit from trade as long as their relative efficiencies differ. By focusing on producing goods where they have a comparative advantage, countries can achieve higher overall productivity and economic welfare. It encourages global trade, specialization, and the allocation of resources to areas where they can be used most efficiently.\n\nThe concept of comparative advantage is widely applied in international trade theory and has significant implications for understanding patterns of trade, economic growth, and the benefits of globalization.",
+    "studentAnswer": "The 'Theory of Comparative Advantage' is an economic model that promotes self-sufficiency and closed economies.",
+    "marks": 4
+  },
+  {
+    "question": "What is the concept of 'democracy' in political science?",
+    "answer": "Democracy is a system of government in which the power and authority reside with the people, either directly or through elected representatives. It is based on the principles of political equality, individual freedom, and the right to participate in decision-making processes.\n\nIn a direct democracy, citizens have a direct say in making decisions and policies through referendums and public votes. In representative democracy, citizens elect representatives who act on their behalf and make decisions on legislative matters. Representative democracies often have systems of checks and balances to prevent the concentration of power in one branch of government.\n\nDemocracy encourages transparency, accountability, and protection of individual rights. It allows for open debates, diverse viewpoints, and peaceful transfers of power. Additionally, democracy provides a framework for resolving conflicts through negotiations and compromise.\n\nVarious forms of democracy exist worldwide, ranging from liberal democracies with strong protections for individual rights to participatory democracies with more direct citizen involvement in decision-making.",
+    "studentAnswer": "Democracy is a political system where power is concentrated in the hands of a single ruler.",
+    "marks": 4
+  },
+  {
+    "question": "What is the 'theory of rational choice' in social science?",
+    "answer": "The theory of rational choice, also known as rational choice theory, is an approach used in social science, economics, and political science to explain individual decision-making. It assumes that individuals are rational actors who make choices based on their self-interest and attempt to maximize their utility or satisfaction.\n\nAccording to this theory, individuals weigh the costs and benefits of different options and choose the one that they believe will best serve their preferences and goals. Rational choice theory is used to analyze a wide range of human behaviors, including consumer choices, voting behavior, criminal decisions, and cooperation in social situations.\n\nCritics argue that rational choice theory oversimplifies human behavior by assuming perfect rationality and ignoring the role of emotions, social norms, and other factors that influence decision-making. Despite its limitations, the theory of rational choice remains an important tool in understanding decision-making processes in various social contexts.",
+    "studentAnswer": "The theory of rational choice suggests that individuals make decisions based on irrational impulses and emotions.",
+    "marks": 4
+  },
+  {
+    "question": "What is the concept of 'social stratification' in sociology?",
+    "answer": "Social stratification refers to the hierarchical arrangement of individuals or groups in a society based on various factors such as wealth, income, education, occupation, and social status. This hierarchical structure results in the division of society into different social strata or classes, with some groups having more advantages and privileges than others.\n\nSocial stratification is a pervasive feature of human societies and can be observed in various forms, including economic inequality, educational disparities, and unequal access to resources and opportunities.\n\nSocial stratification has significant implications for individuals' life chances and social mobility. It can affect access to education, healthcare, job opportunities, and political power. Sociologists study social stratification to understand its causes, consequences, and potential remedies. They analyze how societal institutions and policies contribute to the perpetuation or reduction of social inequalities.",
+    "studentAnswer": "Social stratification is a system where individuals are randomly assigned to different social classes without any hierarchy.",
+    "marks": 4
+  },
+  {
+    "question": "What is the concept of 'urbanization' in geography?",
+    "answer": "Urbanization is the process by which an increasing proportion of a country's population migrates from rural areas to urban areas, leading to the growth and expansion of cities and towns. It is a significant aspect of human geography and is closely associated with industrialization and economic development.\n\nUrbanization occurs due to various factors, including better job opportunities in urban centers, improved infrastructure, access to education and healthcare, and a desire for a higher quality of life. As more people move to cities, the urban landscape changes with the construction of residential, commercial, and industrial buildings, as well as transportation networks.\n\nWhile urbanization offers benefits such as improved access to services and cultural opportunities, it also presents challenges such as housing shortages, increased pollution, and social inequalities. Sustainable urban planning is essential to address the environmental and social impacts of rapid urbanization.",
+    "studentAnswer": "Urbanization is a process where people migrate from urban areas to rural areas due to better living conditions.",
+    "marks": 4
+  },
+  {
+    "question": "What is the 'Theory of Social Capital' in sociology?",
+    "answer": "The Theory of Social Capital, introduced by sociologist Pierre Bourdieu and further developed by other scholars, refers to the value and benefits that individuals or groups derive from their social networks, connections, and relationships. Social capital encompasses both the resources embedded in social relationships and the potential for cooperation and collective action that arises from those connections.\n\nThere are three main types of social capital:\n\n1. Bonding Social Capital: Refers to strong ties and relationships within close-knit groups, such as family and friends. These relationships provide emotional support, social cohesion, and a sense of belonging.\n\n2. Bridging Social Capital: Involves connections between different social groups, such as acquaintances, colleagues, or members of different communities. Bridging social capital enables the exchange of information, resources, and opportunities across diverse networks.\n\n3. Linking Social Capital: Describes connections between individuals or groups and formal institutions, such as government agencies, NGOs, or businesses. Linking social capital provides access to resources, services, and influence within larger societal structures.\n\nSocial capital plays a crucial role in social interactions, community development, economic opportunities, and collective problem-solving. It can promote social cohesion, trust, and reciprocity, which are essential for the functioning of societies.",
+    "studentAnswer": "The Theory of Social Capital is a concept that suggests investing in financial markets to gain economic benefits.",
+    "marks": 4
+  },
+  {
+    "question": "What is the concept of 'globalization' in international relations?",
+    "answer": "Globalization is a multifaceted process involving the increasing interconnectedness and interdependence of people, economies, cultures, and societies across the world. It is facilitated by advancements in communication, transportation, and technology, allowing for the rapid exchange of goods, services, information, and ideas across borders.\n\nGlobalization has various dimensions:\n\n1. Economic Globalization: Involves the integration of national economies into the global economy through trade, investment, and the flow of capital.\n\n2. Cultural Globalization: Refers to the spread of cultural products, values, and practices around the world, leading to cultural homogenization and hybridization.\n\n3. Technological Globalization: Involves the diffusion and adoption of technologies worldwide, shaping communication and information-sharing.\n\n4. Political Globalization: Encompasses the growing influence of international organizations, treaties, and agreements in shaping global governance.\n\nGlobalization has both positive and negative consequences. On one hand, it has facilitated economic growth, cultural exchange, and technological advancements. On the other hand, it has also raised concerns about inequality, exploitation, cultural erosion, and environmental impacts.\n\nUnderstanding globalization is crucial in analyzing global issues, international cooperation, and the challenges of an interconnected world.",
+    "studentAnswer": "Globalization is a theory that proposes the formation of a unified global government to address global issues.",
+    "marks": 4
+  },
+  {
+    "question": "What is the 'social construction of reality' in sociology?",
+    "answer": "The concept of the 'social construction of reality' suggests that reality is not an objective, fixed entity, but rather a product of social processes and interactions. Sociologists Peter Berger and Thomas Luckmann developed this theory, arguing that individuals and societies collectively create and assign meaning to the world around them through language, symbols, and shared interpretations.\n\nAccording to this theory, social interactions, institutions, and culture shape people's perceptions, beliefs, and understanding of reality. What is considered 'real' is influenced by social norms, values, and the dominant ideologies of a particular society. As a result, different societies may interpret the same phenomenon in distinct ways.\n\nFor example, concepts such as beauty, justice, or gender roles are not universal or fixed but are shaped by social, cultural, and historical contexts. The social construction of reality emphasizes the importance of understanding how social forces influence individual behavior and collective worldviews.",
+    "studentAnswer": "The social construction of reality is a theory that argues reality exists independently of human perceptions and interpretations.",
+    "marks": 4
+  },
+  {
+    "question": "What is the 'Black Death' in history?",
+    "answer": "The Black Death, also known as the Bubonic Plague, was one of the most devastating pandemics in human history. It occurred in the 14th century and is estimated to have killed 75 to 200 million people across Europe, Asia, and North Africa. The disease was caused by the bacterium Yersinia pestis, which was carried by fleas infesting rats.\n\nThe Black Death caused high fever, swollen and painful lymph nodes (buboes), and internal bleeding, leading to a high mortality rate. The pandemic had profound social, economic, and cultural impacts, including labor shortages, changes in feudal relationships, and shifts in religious beliefs.\n\nIt is regarded as a pivotal event in European history, affecting demographics, trade, and societal structures.",
+    "studentAnswer": "The Black Death was a war fought in the 14th century between two European kingdoms.",
+    "marks": 5
+  },
+  {
+    "question": "What is 'quantum mechanics' in physics?",
+    "answer": "Quantum mechanics is a fundamental theory in physics that describes the behavior of matter and energy at the smallest scales, such as atoms, molecules, and subatomic particles. It is a branch of physics that diverges from classical mechanics, which is applicable to macroscopic objects.\n\nQuantum mechanics introduces several key principles, including quantization of energy levels, wave-particle duality, and the uncertainty principle. It uses mathematical equations, such as the Schrödinger equation, to predict the probabilities of various outcomes in quantum systems.\n\nQuantum mechanics has led to groundbreaking discoveries and technologies, such as transistors, lasers, and quantum computing. It plays a crucial role in understanding the behavior of matter in the microscopic world.",
+    "studentAnswer": "Quantum mechanics is a theory that explains the movement of objects on a large scale.",
+    "marks": 5
+  },
+  {
+    "question": "What is 'supply and demand' in economics?",
+    "answer": "Supply and demand is a fundamental concept in economics that describes the relationship between the quantity of a good or service supplied by producers and the quantity demanded by consumers. It is a key determinant of market prices.\n\nAccording to the law of demand, as the price of a good or service decreases, the quantity demanded increases, and vice versa, assuming all other factors remain constant. The law of supply, on the other hand, states that as the price of a good or service increases, the quantity supplied by producers also increases, assuming all other factors remain constant.\n\nThe equilibrium price and quantity occur at the intersection of the supply and demand curves, where the quantity demanded equals the quantity supplied. Changes in supply or demand, as well as external factors, can lead to shifts in the equilibrium, resulting in price changes and market adjustments.",
+    "studentAnswer": "Supply and demand is an economic theory that explains how governments control the distribution of goods and services.",
+    "marks": 5
+  },
+  {
+    "question": "What is the 'Greenhouse Effect' in environmental science?",
+    "answer": "The greenhouse effect is a natural phenomenon that regulates the Earth's temperature and makes life on our planet possible. It involves the absorption and re-radiation of heat energy by certain gases in the Earth's atmosphere.\n\nThe Earth's surface receives energy from the Sun in the form of visible light. Some of this energy is absorbed by the Earth, warming its surface. The Earth then emits this absorbed energy back into space in the form of infrared radiation. Greenhouse gases, such as carbon dioxide (CO2), methane (CH4), and water vapor (H2O), present in the atmosphere trap a portion of this outgoing radiation and re-radiate it back towards the Earth's surface. This process helps maintain a relatively stable and habitable climate.\n\nHowever, human activities, such as burning fossil fuels, deforestation, and industrial processes, have increased the concentration of greenhouse gases in the atmosphere, intensifying the greenhouse effect. This enhanced greenhouse effect is leading to global warming and climate change, with potential consequences for ecosystems and human societies.",
+    "studentAnswer": "The greenhouse effect is a method used to grow plants in controlled environments for agricultural purposes.",
+    "marks": 5
+  },
+  {
+    "question": "What is the 'theory of evolution' in biology?",
+    "answer": "The theory of evolution is a scientific explanation for the diversity and development of life on Earth. It was proposed by Charles Darwin in his seminal work 'On the Origin of Species' in 1859. The theory is supported by abundant evidence from various fields, including genetics, geology, and comparative anatomy.\n\nThe core principle of the theory is natural selection, which states that organisms with advantageous traits are more likely to survive, reproduce, and pass on those traits to the next generation. Over time, this leads to the gradual adaptation and diversification of species to their environments.\n\nEvolution also involves other mechanisms, such as genetic mutations, genetic drift, and gene flow, which contribute to the variation and change in populations over successive generations.\n\nThe theory of evolution is widely accepted by the scientific community and forms the foundation of modern biology.",
+    "studentAnswer": "The theory of evolution suggests that living organisms were created in their current form and have not changed over time.",
+    "marks": 5
+  },
+  {
+    "question": "What is 'artificial intelligence' (AI) in computer science?",
+    "answer": "Artificial intelligence (AI) is a branch of computer science that focuses on creating machines and systems capable of performing tasks that typically require human intelligence. AI aims to develop computer programs that can learn from experience, reason, perceive their environment, and adapt to new situations.\n\nAI encompasses a wide range of technologies and approaches, including machine learning, natural language processing, computer vision, and robotics. Machine learning, in particular, is a subset of AI that allows computers to learn from data without explicit programming.\n\nAI has numerous applications, including virtual assistants, image and speech recognition, autonomous vehicles, medical diagnosis, and game-playing algorithms. It continues to advance rapidly, with implications for various industries and aspects of human life.",
+    "studentAnswer": "Artificial intelligence is a technique used in computer graphics to create realistic images and animations.",
+    "marks": 5
+  },
+  {
+    "question": "What is the 'theory of relativity' in physics?",
+    "answer": "The theory of relativity, developed by Albert Einstein, is a fundamental theory in physics that describes the relationships between space, time, and gravity. It comprises two major components: the Special Theory of Relativity, which deals with objects moving at constant speeds, and the General Theory of Relativity, which extends the principles to include gravity's influence on the fabric of spacetime.\n\nThe Special Theory of Relativity introduced the concept of time dilation and the equivalence of mass and energy (E=mc^2) for objects moving at high speeds relative to each other. It revolutionized our understanding of the nature of space and time and challenged classical notions of absolute space and time.\n\nThe General Theory of Relativity, published by Einstein in 1915, extended the principles of special relativity to include gravity. According to this theory, massive objects like planets and stars warp the fabric of spacetime around them, causing other objects to follow curved paths in their presence. The theory explains the force of gravity as a consequence of the curvature of spacetime.\n\nBoth the Special and General Theories of Relativity have been extensively tested and confirmed through numerous experiments and observations and are considered cornerstones of modern physics.",
+    "studentAnswer": "The theory of relativity is a concept in physics that explains the relationship between electricity and magnetism.",
+    "marks": 5
+  },
+  {
+    "question": "What is 'genetic engineering' in biotechnology?",
+    "answer": "Genetic engineering, also known as genetic modification or gene editing, is a biotechnology technique that involves manipulating the genetic material (DNA) of organisms to introduce specific desired traits or remove undesirable ones. It allows scientists to add, delete, or modify genes in an organism's genome.\n\nThe process of genetic engineering often involves the use of specialized tools, such as CRISPR-Cas9, to precisely target and edit specific genes. It has applications in various fields, including agriculture, medicine, and environmental conservation.\n\nIn agriculture, genetic engineering is used to develop genetically modified (GM) crops that are resistant to pests, diseases, or herbicides or have improved nutritional content. In medicine, it has the potential to treat genetic disorders by correcting faulty genes or producing therapeutic proteins.\n\nWhile genetic engineering offers promising possibilities, it also raises ethical, safety, and environmental concerns, and its use is subject to regulatory oversight in many countries.",
+    "studentAnswer": "Genetic engineering is a process used to clone organisms and produce identical copies.",
+    "marks": 5
+  },
+  {
+    "question": "What is 'human rights' in international law?",
+    "answer": "Human rights are inherent, universal rights and freedoms to which all individuals are entitled, regardless of race, nationality, gender, religion, or any other status. They are protected and recognized under international law and various national constitutions.\n\nHuman rights encompass a broad range of civil, political, economic, social, and cultural rights. Some examples include the right to life, freedom of speech, freedom from torture, the right to education, and the right to participate in government.\n\nInternational human rights instruments, such as the Universal Declaration of Human Rights and the International Covenant on Civil and Political Rights, outline the fundamental human rights and provide guidelines for countries to ensure their protection.\n\nThe promotion and protection of human rights are crucial for fostering a just and equitable society, promoting peace, and preventing abuses of power and discrimination.",
+    "studentAnswer": "Human rights are privileges granted by governments to their citizens.",
+    "marks": 5
+  },
+  {
+    "question": "What is 'geographic information system' (GIS) in geography?",
+    "answer": "A geographic information system (GIS) is a powerful tool used in geography and other disciplines to capture, store, analyze, and visualize spatial data. It combines various types of geographical data, such as maps, satellite images, and survey data, with attribute data to create detailed and interactive maps and visualizations.\n\nGIS allows users to query and analyze geographic data, enabling them to make informed decisions and gain insights into spatial relationships and patterns. It is widely used in fields like urban planning, environmental management, agriculture, emergency response, and marketing.\n\nWith GIS, users can perform tasks such as spatial analysis, network analysis, geocoding, and visualization of data in the form of maps, charts, and graphs. The technology continues to evolve, opening up new possibilities for understanding the world through a spatial lens.",
+    "studentAnswer": "A geographic information system is a tool used to explore historical events and timelines.",
+    "marks": 5
+  },
+  {
+    "question": "What is 'deforestation' and its environmental impact?",
+    "answer": "Deforestation refers to the clearing, removal, or destruction of forests and wooded areas, primarily for agricultural expansion, logging, infrastructure development, and fuelwood extraction.\n\nDeforestation has significant environmental impacts on both local ecosystems and the global climate. Forests play crucial roles in absorbing carbon dioxide, a greenhouse gas responsible for climate change. Deforestation contributes to higher levels of carbon dioxide in the atmosphere, leading to increased global warming and climate instability.\n\nFurthermore, forests are home to a vast array of plant and animal species, many of which are at risk of extinction due to habitat loss caused by deforestation. The destruction of forests can disrupt ecological balances, affect biodiversity, and lead to the loss of valuable genetic resources.\n\nDeforestation also has regional consequences, including soil erosion, reduced water quality, altered rainfall patterns, and changes in temperature and humidity. These impacts can negatively affect local communities, agriculture, and overall ecosystem health.\n\nEfforts to combat deforestation include reforestation projects, sustainable forestry practices, conservation initiatives, and policies to protect forested areas.",
+    "studentAnswer": "Deforestation is a process that involves the planting of trees to create new forests and increase green areas.",
+    "marks": 5
+  },
+  {
+    "question": "What is 'global citizenship' and its significance?",
+    "answer": "Global citizenship is a concept that emphasizes the recognition of one's identity as a member of a broader global community and the responsibility to contribute positively to the well-being of the planet and its inhabitants.\n\nGlobal citizens understand the interconnectedness and interdependence of people and nations worldwide. They actively promote values such as empathy, social justice, sustainability, human rights, and cultural diversity. Global citizenship goes beyond national boundaries, promoting a sense of shared responsibility for addressing global challenges, including poverty, inequality, climate change, and conflict.\n\nGlobal citizenship education seeks to cultivate critical thinking, ethical decision-making, and a sense of civic engagement in individuals. It encourages them to take action to address global issues and work collaboratively for positive change.\n\nGlobal citizenship is essential in fostering a peaceful and sustainable world and building bridges of understanding and cooperation among diverse cultures and societies.",
+    "studentAnswer": "Global citizenship refers to being a citizen of multiple countries at the same time.",
+    "marks": 5
+  },
+  {
+    "question": "What is 'civil engineering' and its role in infrastructure development?",
+    "answer": "Civil engineering is a branch of engineering that deals with the design, construction, and maintenance of physical and natural built environments. Civil engineers work on a wide range of infrastructure projects, such as roads, bridges, buildings, airports, water supply systems, and wastewater treatment facilities.\n\nThe role of civil engineering is crucial in shaping the modern world and providing essential infrastructure for communities to thrive. Civil engineers apply scientific and mathematical principles to plan and execute projects that meet safety, environmental, and economic requirements.\n\nThey undertake tasks like surveying, analysis of materials, structural design, environmental impact assessments, and project management. Civil engineers collaborate with architects, urban planners, environmental scientists, and other professionals to ensure the successful completion of projects.\n\nCivil engineering plays a key role in enhancing the quality of life, facilitating economic development, and addressing challenges related to population growth, urbanization, and sustainability.",
+    "studentAnswer": "Civil engineering is a field that involves studying ancient civilizations and their historical structures.",
+    "marks": 5
+  },
+  {
+    "question": "What is the 'scientific method' and its steps?",
+    "answer": "The scientific method is a systematic approach used by scientists to acquire knowledge, test hypotheses, and make evidence-based conclusions about the natural world. It involves several iterative steps to ensure objectivity and reliability in scientific investigations.\n\n1. Observation: Scientists observe and gather data about a phenomenon or problem they want to study. They identify patterns, relationships, or anomalies that require further investigation.\n\n2. Formulation of a Hypothesis: Based on the observation, scientists propose a testable explanation or prediction, known as a hypothesis. The hypothesis should be specific and falsifiable, allowing for testing through experimentation or observation.\n\n3. Designing and Conducting Experiments: Scientists design experiments or studies to test the hypothesis. They control variables, conduct trials, and collect data to analyze and draw conclusions.\n\n4. Analyzing Data: Researchers analyze the collected data using statistical tools and methods to identify patterns or trends and evaluate the significance of the results.\n\n5. Drawing Conclusions: Based on the data analysis, scientists evaluate whether the hypothesis is supported or rejected. The conclusions should be objective and based on the evidence.\n\n6. Communicating Findings: Scientists publish their findings in peer-reviewed journals, conferences, or other scientific forums, allowing other researchers to review and replicate the study.\n\n7. Peer Review and Replication: Other scientists review the study's methodology, results, and conclusions through peer review. Replication of experiments by independent researchers helps validate the results and strengthen the scientific consensus.\n\nThe scientific method is iterative, with new observations leading to revised hypotheses and further investigations.",
+    "studentAnswer": "The scientific method is a process of creating hypotheses without conducting experiments to test them.",
+    "marks": 5
+  },
+  {
+    "question": "What is 'urban planning' and its goals?",
+    "answer": "Urban planning is a multidisciplinary field that focuses on designing and organizing the development of urban areas to create functional, sustainable, and aesthetically pleasing communities.\n\nThe goals of urban planning include:\n\n1. Efficient Land Use: Urban planners aim to optimize land use, balancing residential, commercial, industrial, and recreational areas to minimize sprawl and maximize accessibility.\n\n2. Infrastructure Development: Planning involves designing and implementing infrastructure, such as roads, public transportation systems, water supply, and waste management facilities, to meet the needs of the population.\n\n3. Environmental Sustainability: Urban planners strive to create environmentally sustainable cities by promoting green spaces, energy-efficient buildings, waste reduction, and pollution control measures.\n\n4. Social Equity: Planning aims to create inclusive and socially cohesive communities by providing equitable access to services, amenities, and opportunities for all residents.\n\n5. Economic Development: Urban planning supports economic growth by attracting investments, creating job opportunities, and fostering a vibrant business environment.\n\n6. Disaster Resilience: Planners work to minimize the vulnerability of urban areas to natural disasters and emergencies through risk assessments and preparedness strategies.\n\n7. Cultural Preservation: Urban planning incorporates strategies to protect and enhance cultural heritage and identity within cities.\n\nOverall, urban planning seeks to improve the quality of life for urban residents and promote sustainable development.",
+    "studentAnswer": "Urban planning is the process of randomly constructing buildings and structures in cities without any specific goals.",
+    "marks": 5
+  },
+  {
+    "question": "What is 'cultural relativism' in anthropology?",
+    "answer": "Cultural relativism is an anthropological principle that emphasizes the importance of understanding and evaluating cultural practices and beliefs within their own cultural context rather than imposing the values of one's own culture.\n\nAnthropologists observe and analyze cultural practices and norms without making judgments based on their own cultural perspectives. This approach acknowledges the diversity of human cultures and recognizes that what may be considered acceptable or meaningful in one culture may not be so in another.\n\nCultural relativism encourages researchers to suspend ethnocentrism, which is the tendency to view one's own culture as superior or the norm against which other cultures are judged. By adopting a culturally relativistic viewpoint, anthropologists can gain deeper insights into the complexities of different societies and the significance of their customs, traditions, and rituals.\n\nCultural relativism is essential in promoting cultural sensitivity, avoiding cultural biases, and conducting ethical research in anthropology.",
+    "studentAnswer": "Cultural relativism is a theory that suggests all cultures are fundamentally the same.",
+    "marks": 5
+  },
+  {
+    "question": "What is 'ozone depletion' and its environmental implications?",
+    "answer": "Ozone depletion refers to the reduction in the concentration of ozone (O3) molecules in the Earth's stratosphere. The stratospheric ozone layer plays a vital role in protecting life on Earth by absorbing and filtering out harmful ultraviolet (UV) radiation from the Sun.\n\nHuman-made chemicals, such as chlorofluorocarbons (CFCs) and halons, were once commonly used in aerosols, refrigerants, and foam-blowing agents. When released into the atmosphere, these substances can reach the stratosphere and catalytically break down ozone molecules, causing ozone depletion.\n\nThe environmental implications of ozone depletion are significant. Increased levels of UV radiation reaching the Earth's surface can harm living organisms, including humans, by causing skin cancer, cataracts, and immune system suppression.\n\nOzone depletion also affects terrestrial and marine ecosystems, with potential impacts on crop yields, marine food webs, and biodiversity.\n\nIn response to the detrimental effects of ozone-depleting substances, the international community adopted the Montreal Protocol in 1987, which aimed to phase out the production and consumption of ozone-depleting substances. The protocol's success has led to a gradual recovery of the ozone layer, demonstrating the importance of global cooperation in addressing environmental challenges.",
+    "studentAnswer": "Ozone depletion is a natural process that occurs seasonally in certain regions of the world.",
+    "marks": 5
+  },
+  {
+    "question": "What is 'sustainable development' and its principles?",
+    "answer": "Sustainable development is a concept that seeks to meet the needs of the present without compromising the ability of future generations to meet their own needs. It emphasizes achieving a balance between economic, social, and environmental goals.\n\nThe principles of sustainable development include:\n\n1. Environmental Conservation: Sustainable development aims to protect and preserve natural resources and ecosystems to ensure their availability for future generations.\n\n2. Social Equity: Development should promote equality, inclusivity, and social justice, ensuring that all individuals have access to basic services, opportunities, and a high quality of life.\n\n3. Economic Viability: Development projects and practices should be economically viable and financially sustainable, fostering economic growth and prosperity.\n\n4. Inter-generational Equity: Sustainable development recognizes the responsibility of the current generation to leave a positive legacy for future generations.\n\n5. Stakeholder Engagement: It encourages active involvement and participation of stakeholders, including local communities, in decision-making processes.\n\n6. Resilience and Adaptation: Sustainable development considers the long-term resilience of systems in the face of environmental and social challenges, encouraging adaptive strategies.\n\n7. Prudent Resource Use: Development should minimize waste and optimize resource efficiency to reduce ecological footprints.\n\nSustainable development is a fundamental principle in global efforts to address climate change, biodiversity loss, poverty, and social inequality.",
+    "studentAnswer": "Sustainable development is a theory that promotes continuous economic growth without considering environmental or social consequences.",
+    "marks": 5
+  },
+  {
+    "question": "What is the 'Big Bang Theory' in cosmology?",
+    "answer": "The Big Bang Theory is the prevailing cosmological model that explains the origin and evolution of the universe. According to this theory, the universe began as a singularity—a point of infinite density and temperature—approximately 13.8 billion years ago.\n\nAt the moment of the Big Bang, the universe rapidly expanded and has been continuously expanding ever since. The early universe was extremely hot and dense, filled with energy and subatomic particles.\n\nAs the universe expanded and cooled, protons, neutrons, and electrons formed, leading to the emergence of atoms and, eventually, galaxies, stars, and planets. The formation of galaxies and the clustering of matter are attributed to the gravitational pull of dark matter.\n\nThe discovery of cosmic microwave background radiation, a faint glow of radiation permeating the universe, provided crucial evidence supporting the Big Bang Theory.\n\nThe Big Bang Theory has significantly contributed to our understanding of the universe's evolution and its fundamental properties, such as cosmic inflation, dark energy, and the formation of large-scale structures.",
+    "studentAnswer": "The Big Bang Theory is a television show about scientists living together and solving humorous problems.",
+    "marks": 5
+  },
+  {
+    "question": "What is 'economic globalization' and its impact?",
+    "answer": "Economic globalization refers to the increasing interconnectedness and interdependence of national economies through the flow of goods, services, capital, technology, and information across borders. It is facilitated by advancements in communication, transportation, and international trade agreements.\n\nThe impact of economic globalization is complex and multifaceted. Advantages of globalization include increased trade and investment opportunities, access to a broader range of products and services, and the potential for economic growth and job creation.\n\nGlobalization has allowed companies to expand their operations internationally, leading to the emergence of multinational corporations. This has contributed to the integration of global supply chains and the spread of technological advancements and knowledge.\n\nHowever, economic globalization has also been associated with challenges and criticisms. It can lead to income inequality, job displacement in certain industries, exploitation of labor in developing countries, and environmental degradation due to increased consumption and production.\n\nMoreover, economic globalization has triggered debates about the erosion of national sovereignty and cultural homogenization, as global markets influence local traditions and practices.\n\nThe discussion around economic globalization involves balancing its potential benefits with addressing its drawbacks to ensure a more inclusive and sustainable global economy.",
+    "studentAnswer": "Economic globalization is a theory that proposes the formation of a unified global government to address global issues.",
+    "marks": 5
+  },
+  {
+    "question": "What is 'urbanization' and its social consequences?",
+    "answer": "Urbanization is the process of population migration from rural areas to urban centers, leading to the growth and expansion of cities. It is driven by factors such as industrialization, economic opportunities, improved infrastructure, and better access to services.\n\nUrbanization has significant social consequences:\n\n1. Population Density: Cities experience high population densities, leading to challenges related to housing, transportation, and resource management.\n\n2. Cultural Diversity: Urban centers often host diverse populations, fostering cultural exchange, tolerance, and the emergence of vibrant communities.\n\n3. Economic Opportunities: Urban areas offer a wide range of job opportunities and access to markets, attracting people seeking better livelihoods.\n\n4. Social Services: Cities provide access to education, healthcare, and cultural amenities, improving overall quality of life for residents.\n\n5. Social Issues: Urbanization can also exacerbate social issues, such as poverty, inequality, homelessness, and crime.\n\n6. Infrastructure Strain: Rapid urbanization can strain infrastructure, leading to challenges in providing adequate services, utilities, and transportation.\n\n7. Environmental Impact: The concentration of people and industries in urban areas can result in increased pollution, habitat loss, and resource consumption.\n\nEffective urban planning and governance are essential to manage the social consequences of urbanization and create sustainable, livable cities for the future.",
+    "studentAnswer": "Urbanization is a process that involves the spread of agricultural practices to urban areas.",
+    "marks": 5
+  },
+  {
+    "question": "What is a noun?",
+    "answer": "A noun is a word that represents a person, place, thing, or idea. It can be a concrete object, such as 'book' or 'dog,' or an abstract concept, such as 'love' or 'happiness.' Nouns can be singular (referring to one person or thing) or plural (referring to more than one person or thing). They are essential elements in constructing sentences and providing context to the subject of the sentence.",
+    "studentAnswer": "A noun is a type of verb used to describe actions.",
+    "marks": 5
+  },
+  {
+    "question": "What is a verb?",
+    "answer": "A verb is a word that expresses an action, occurrence, or state of being. It conveys what the subject of the sentence is doing or experiencing. Verbs are essential in constructing sentences and can be used in different tenses, such as present, past, and future. Examples of verbs include 'run,' 'eat,' 'write,' and 'be.'",
+    "studentAnswer": "A verb is a type of noun used to describe places.",
+    "marks": 4
+  },
+  {
+    "question": "What is an adjective?",
+    "answer": "An adjective is a word that modifies or describes a noun or pronoun, providing additional information about its attributes or qualities. Adjectives can indicate the size, color, shape, appearance, or other characteristics of the noun they modify. For example, in the phrase 'beautiful flower,' 'beautiful' is the adjective that describes the flower.",
+    "studentAnswer": "An adjective is a type of verb used to show actions.",
+    "marks": 3
+  },
+  {
+    "question": "What is an adverb?",
+    "answer": "An adverb is a word that modifies or describes a verb, an adjective, or another adverb. It provides information about the manner, time, place, degree, or frequency of an action or condition. Adverbs often end in '-ly,' but some can have irregular forms. For example, in the phrase 'she speaks softly,' 'softly' is the adverb that describes how she speaks.",
+    "studentAnswer": "An adverb is a type of noun used to show possession.",
+    "marks": 4
+  },
+  {
+    "question": "What is a pronoun?",
+    "answer": "A pronoun is a word used to replace a noun in a sentence to avoid repetition. Pronouns can refer to people, places, things, or ideas. Common pronouns include 'he,' 'she,' 'it,' 'they,' 'this,' and 'that.' Pronouns play a crucial role in making sentences less repetitive and more concise.",
+    "studentAnswer": "A pronoun is a type of verb used to indicate actions.",
+    "marks": 3
+  },
+  {
+    "question": "What is a preposition?",
+    "answer": "A pronoun is a word that shows the relationship between a noun or pronoun and other elements in the sentence. It indicates location, direction, time, manner, or possession. Common prepositions include 'in,' 'on,' 'under,' 'by,' 'before,' 'after,' 'with,' and 'to.' In the phrase 'The cat is on the table,' 'on' is the preposition that shows the cat's location.",
+    "studentAnswer": "A preposition is a type of noun used to show possession.",
+    "marks": 4
+  },
+  {
+    "question": "What is a conjunction?",
+    "answer": "A conjunction is a word used to connect words, phrases, or clauses in a sentence. It helps to establish relationships between the connected elements. Common conjunctions include 'and,' 'but,' 'or,' 'so,' 'for,' 'nor,' and 'yet.' For example, in the sentence 'I like tea and coffee,' 'and' is the conjunction that connects the two preferences.",
+    "studentAnswer": "A conjunction is a type of verb used to indicate actions.",
+    "marks": 3
+  },
+  {
+    "question": "What is a subject-verb agreement?",
+    "answer": "Subject-verb agreement is a grammatical rule that states that the verb in a sentence must agree with its subject in number and person. In other words, a singular subject requires a singular verb, and a plural subject requires a plural verb. For example, 'He sings' (singular subject and singular verb) and 'They sing' (plural subject and plural verb). Incorrect agreement between the subject and verb can lead to grammatical errors.",
+    "studentAnswer": "Subject-verb agreement is a rule that requires a subject to be placed before a verb in a sentence.",
+    "marks": 4
+  },
+  {
+    "question": "What is the difference between 'your' and 'you're'?",
+    "answer": "'Your' is a possessive pronoun that shows ownership, indicating that something belongs to someone. For example, 'Is this your book?'\n\n'You're' is a contraction of 'you are.' It combines the pronoun 'you' with the verb 'are.' For example, 'You're going to the party.'",
+    "studentAnswer": "'Your' and 'you're' have the same meaning and can be used interchangeably in sentences.",
+    "marks": 5
+  },
+  {
+    "question": "What is the difference between 'its' and 'it's'?",
+    "answer": "'Its' is a possessive pronoun that shows ownership by something that doesn't have gender, usually used for animals or objects. For example, 'The dog wagged its tail.'\n\n'It's' is a contraction of 'it is' or 'it has.' It combines the pronoun 'it' with the verb 'is' or 'has.' For example, 'It's a beautiful day' (it is) or 'It's been raining all day' (it has).",
+    "studentAnswer": "'Its' and 'it's' have the same meaning and can be used interchangeably in sentences.",
+    "marks": 5
+  },
+  {
+    "question": "What are the three verb tenses in English?",
+    "answer": "The three verb tenses in English are:\n\n1. Present tense: Used to describe actions happening at the present time or general truths. For example, 'I walk to school every day.'\n\n2. Past tense: Used to describe actions that happened in the past. For example, 'She played the piano yesterday.'\n\n3. Future tense: Used to describe actions that will happen in the future. For example, 'They will visit us next week.'",
+    "studentAnswer": "The three verb tenses in English are:\n\n1. Present tense: Used to describe actions happening now.\n\n2. Past tense: Used to describe actions that happened in the past.\n\n3. Future tense: Used to describe actions that will happen in the future.",
+    "marks": 5
+  },
+  {
+    "question": "What is the passive voice?",
+    "answer": "The passive voice is a grammatical construction in which the subject of a sentence is the receiver of the action rather than the doer. In passive voice sentences, the object of the active voice sentence becomes the subject, and the original subject may be omitted or appear as a prepositional phrase. For example, in the active voice sentence 'The chef prepares the meal,' the passive voice would be 'The meal is prepared by the chef.' The passive voice is often used to emphasize the action or to focus on the object.",
+    "studentAnswer": "The passive voice is a grammatical construction used to emphasize the subject of a sentence.",
+    "marks": 4
+  },
+  {
+    "question": "What are the four sentence types in English?",
+    "answer": "The four sentence types in English are:\n\n1. Declarative sentences: Statements that convey information or make statements. For example, 'I like ice cream.'\n\n2. Interrogative sentences: Questions that seek information. For example, 'Did you finish your homework?'\n\n3. Imperative sentences: Commands or requests. For example, 'Please close the door.'\n\n4. Exclamatory sentences: Expressions of strong emotion or excitement. For example, 'What a beautiful sunset!'",
+    "studentAnswer": "The four sentence types in English are:\n\n1. Declarative sentences: Statements that convey information.\n\n2. Interrogative sentences: Questions that seek information.\n\n3. Imperative sentences: Commands or requests.\n\n4. Exclamatory sentences: Expressions of strong emotion.",
+    "marks": 5
+  },
+  {
+    "question": "What is a compound sentence?",
+    "answer": "A compound sentence is a sentence that consists of two or more independent clauses joined by coordinating conjunctions (such as 'and,' 'but,' 'or,' 'nor,' 'for,' 'so,' or 'yet'). Each independent clause could function as a complete sentence on its own, but they are connected to express related ideas or actions. For example, 'I like to read, and she enjoys playing sports.'",
+    "studentAnswer": "A compound sentence is a sentence that consists of a subject and a verb.",
+    "marks": 4
+  },
+  {
+    "question": "What is a complex sentence?",
+    "answer": "A complex sentence is a sentence that contains one independent clause and at least one dependent clause. An independent clause can stand alone as a sentence, while a dependent clause cannot. Dependent clauses are introduced by subordinating conjunctions (such as 'because,' 'although,' 'since,' 'when,' 'while,' 'if,' 'unless,' etc.). For example, 'I will go to the party if I finish my work.' The independent clause is 'I will go to the party,' and the dependent clause is 'if I finish my work.'",
+    "studentAnswer": "A complex sentence is a sentence that contains complicated words and phrases.",
+    "marks": 4
+  },
+  {
+    "question": "What is a relative clause?",
+    "answer": "A relative clause is a type of dependent clause that provides additional information about a noun or pronoun in the main clause. It begins with a relative pronoun (such as 'who,' 'whom,' 'whose,' 'which,' or 'that'). For example, in the sentence 'The book, which is on the shelf, is my favorite,' the relative clause is 'which is on the shelf,' and it provides more information about the book.",
+    "studentAnswer": "A relative clause is a type of clause used to show cause and effect relationships in a sentence.",
+    "marks": 5
+  },
+  {
+    "question": "What is a comma splice?",
+    "answer": "A comma splice is a grammatical error that occurs when two independent clauses are joined together with only a comma, without a coordinating conjunction or proper punctuation. For example, 'I like coffee, I drink it every morning.' To correct a comma splice, you can use a semicolon, add a coordinating conjunction, or separate the two clauses into separate sentences.",
+    "studentAnswer": "A comma splice is a type of punctuation used to connect two related ideas in a sentence.",
+    "marks": 4
+  },
+  {
+    "question": "What is a run-on sentence?",
+    "answer": "A run-on sentence is a grammatical error that occurs when two or more independent clauses are joined together without proper punctuation or conjunctions. It is also known as a fused sentence. Run-on sentences can be confusing and difficult to read. To correct a run-on sentence, you can use a period to separate the clauses into two sentences, use a semicolon to connect them, or add a coordinating conjunction.",
+    "studentAnswer": "A run-on sentence is a type of sentence that is too long and contains unnecessary words.",
+    "marks": 4
+  }
+]
