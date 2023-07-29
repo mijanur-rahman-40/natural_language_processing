@@ -127,4 +127,3 @@ text,hypothesis,label
 "Agile development emphasizes iterative and customer-centric development, while Waterfall follows a sequential and plan-driven approach.","Software development methodologies like Agile and Waterfall offer different approaches to manage projects and development processes.","entailment"
 "React.js, a popular front-end framework, offers a component-based architecture for building user interfaces.","Web development involves front-end and back-end development, where front-end focuses on user interface and back-end handles application logic.","entailment"
 "HTTP, a stateless protocol, facilitates resource retrieval in web browsing.","TCP/IP, the backbone of the internet, ensures reliable data transmission between devices.","neutral"
-"iOS, developed by Apple Inc., is known for its user-friendly interface and stringent app quality standards.","Mobile applications have transformed how people interact with technology, offering various services
